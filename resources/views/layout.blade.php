@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
   <link rel="stylesheet" href="assets/vendor/fancybox/jquery.fancybox.css">
   <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
-  <link  rel="stylesheet" href="assets/vendor/cubeportfolio-full/cubeportfolio/css/cubeportfolio.min.css">
+ <!-- <link  rel="stylesheet" href="assets/vendor/cubeportfolio-full/cubeportfolio/css/cubeportfolio.min.css"> -->
   <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="assets/vendor/hamburgers/hamburgers.min.css">
 
@@ -75,39 +75,52 @@
             <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
               <ul class="navbar-nav ml-auto text-uppercase g-font-weight-600 u-main-nav-v4 u-sub-menu-v1">
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg " id="op1">
-                  <a href="/" class="nav-link">Inicio
+                  <a href="/" class="nav-link">{{ __('messages.nav_home') }}
                   <span class="sr-only">(current)</span>
               </a>
                 </li>
               
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg " id="op2">
-                  <a href="nosotros" class="nav-link" >Nosotros
+                  <a href="nosotros" class="nav-link" >{{ __('messages.nav_us') }}
                 
               </a>
                 </li>
 
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" id="op3">
-                  <a href="escrituras" class="nav-link">Mis Escritos
+                  <a href="escrituras" class="nav-link">{{ __('messages.nav_write') }}
                 
               </a>
                 </li>
 
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" id="op4">
-                  <a href="galerias" class="nav-link">Galería
+                  <a href="galerias" class="nav-link">{{ __('messages.nav_gallery') }}
                 
               </a>
                 </li>
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" >
-                  <a href="#!" class="nav-link">Contacto
+                  <a href="#!" class="nav-link">{{ __('messages.nav_contact') }}
                 
               </a>
                 </li>
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" style="background: #4caf50;">
-                  <a href="#!" class="nav-link" style="color: #fff;">Donación
+                  <a href="#!" class="nav-link" style="color: #fff;">{{ __('messages.nav_don') }}
                 
               </a>
                 </li>
               </ul>
+             <!-- Right Side Of Navbar Language -->
+                    <div class="dropdown">
+                      <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+                        {{ __('messages.nav_lang') }}
+                      </button>
+                      <div class="dropdown-menu">
+                        <a class="dropdown-item" href="{{ url('locale/en')}}"><img src="assets/img/us.png" width="30px" height="20x"> English</a>
+                        <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x"> French</a>
+                        <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x"> Spanish</a>
+                        <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> German</a>
+                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Portuguese</a>
+                      </div>
+                    </div> 
             </div>
             <!-- End Navigation -->
           </div>
@@ -200,7 +213,7 @@
   <script src="assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
   <script src="assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
   <script src="assets/vendor/fancybox/jquery.fancybox.min.js"></script>
-  <script src="assets/vendor/cubeportfolio-full/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+    <!-- <script src="assets/vendor/cubeportfolio-full/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>-->
 
   <!-- JS Revolution Slider -->
   <script src="assets/vendor/revolution-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
@@ -226,7 +239,7 @@
   <script src="assets/js/components/hs.tabs.js"></script>
   <script src="assets/js/components/hs.popup.js"></script>
   <script src="assets/js/components/hs.counter.js"></script>
-  <script src="assets/js/components/hs.cubeportfolio.js"></script>
+  <!-- <script src="assets/js/components/hs.cubeportfolio.js"></script>-->
   <script src="assets/js/components/hs.go-to.js"></script>
 
   <!-- JS Customization -->
@@ -286,7 +299,7 @@
         $.HSCore.components.HSCarousel.init('.js-carousel');
 
          // initialization of cubeportfolio
-        $.HSCore.components.HSCubeportfolio.init('.cbp');
+        //$.HSCore.components.HSCubeportfolio.init('.cbp');
 
         // initialization of tabs
         $.HSCore.components.HSTabs.init('[role="tablist"]');
@@ -305,6 +318,7 @@
         // initialization of header
         $.HSCore.components.HSHeader.init($('#js-header'));
         $.HSCore.helpers.HSHamburgers.init('.hamburger');
+      });
 
         // initialization of HSMegaMenu component
         $('.js-mega-menu').HSMegaMenu({
@@ -313,9 +327,6 @@
           breakpoint: 991
         });
 
-        // initialization of cubeportfolio
-        $.HSCore.components.HSCubeportfolio.init('.cbp');
-      });
 
       $(window).on('resize', function () {
         setTimeout(function () {
