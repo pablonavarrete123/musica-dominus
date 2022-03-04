@@ -7,9 +7,9 @@
       <!-- Heading -->
       <div class="row justify-content-center text-center g-mb-70">
         <div class="col-lg-9">
-          <h1 class="h2 g-color-black g-font-weight-600 mb-2">Galerías</h1>
+          <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_home_title_gallery') }}</h1>
           <div class="d-inline-block g-width-30 g-height-2 g-bg-primary mb-2"></div>
-          <p class="lead mb-0">He capturado gran parte de los momentos maravillosos que he vivenciado en esta hermosa aventura</p>
+          <p class="lead mb-0">{{ __('messages.page_home_subtitle_gallery') }}</p>
         </div>
       </div>
       <!-- End Heading -->
