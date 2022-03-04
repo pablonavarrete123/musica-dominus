@@ -139,10 +139,10 @@
     <section class="g-color-white g-pa-30" style="background: #8bc34a;">
   <div class="d-md-flex justify-content-md-center text-center">
     <div class="align-self-md-center">
-      <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.</p>
+      <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">{{ __('messages.footer_text') }}</p>
     </div>
     <div class="align-self-md-center">
-      <a class="btn btn-md u-btn-white" href="#!">Apóyanos</a>
+      <a class="btn btn-md u-btn-white" href="#!">{{ __('messages.footer_button') }}</a>
     </div>
   </div>
 </section>
@@ -162,22 +162,22 @@
 
       <!-- Footer - List -->
       <ul class="list-inline mb-5">
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="index.html">Inicio</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="index.html">{{ __('messages.nav_home') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="nosotros.html">Nosotros</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="nosotros.html">{{ __('messages.nav_us') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">Mis Escritos</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">{{ __('messages.nav_write') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="galerias.html">Galería</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="galerias.html">{{ __('messages.nav_gallery') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">Contacto</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">{{ __('messages.nav_contact') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">Donación</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">{{ __('messages.nav_don') }}</a>
         </li>
       </ul>
       <!-- End Footer - List -->
 
-      <span class="d-block g-color-gray-dark-v5 g-font-size-13 mb-4">© Musica Dominus. 2022 Todos los derechos Reservados. </span>
+      <span class="d-block g-color-gray-dark-v5 g-font-size-13 mb-4">{{ __('messages.footer_copyright') }}</span>
     </div>
 
     <div class="col-md-3 text-center g-mb-30">

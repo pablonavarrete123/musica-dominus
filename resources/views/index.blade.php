@@ -87,9 +87,9 @@
       <!-- Heading -->
       <div class="row justify-content-center text-center g-mb-70">
         <div class="col-lg-9">
-          <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.title') }}</h1>
+          <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_home_title_what') }}</h1>
           <div class="d-inline-block g-width-30 g-height-2 g-bg-primary mb-2"></div>
-          <p class="lead mb-0">El estudio de la música clásica es la mejor manera, con la oración, de poder superar estos inconvenientes</p>
+          <p class="lead mb-0">{{ __('messages.page_home_subtitle_what') }}</p>
         </div>
       </div>
       <!-- End Heading -->
@@ -97,11 +97,11 @@
       <div class="row">
         <div class="col-lg-8 g-mb-30">
 
-          <p style="padding-top: 30px;">En todas las instituciones educativas y en muchas comunidades estamos presenciando actos de celos, acoso e intimidación. Los niños más sensibles son a menudo los objetivos. Yo mismo sufrí esta violencia verbal y psicológica cuando era niño. El estudio de la música clásica es la mejor manera, con la oración, de poder superar estos inconvenientes permitiendo al niño equilibrarse, encontrar su lugar en el mundo, desarrollarse pudiendo afirmarse. Como hemos visto en capítulos anteriores, la violencia excesiva y la vulgarización son los signos de nuestra sociedad decadente, materialista y egocéntrica. <br><br>
+          <p style="padding-top: 30px;">{{ __('messages.page_home_what_p1') }}<br><br>
           
-          <b>Musica Dominus</b> es una forma de reconectar con la enseñanza de los verdaderos valores a través del estudio de la Biblia, apta para niños de todas las edades, sobre el tema de la música antigua. Esta enseñanza la dedico a los más pobres, a los niños que no tienen la posibilidad de acceder a una educación musical de calidad, y mucho menos la de un instrumento clásico como el pianoforte.<br><br>
+          <b>{{ __('messages.page_home_what_p2_b') }}</b> {{ __('messages.page_home_what_p2') }}<br><br>
 
-Con intensa atención y concentración, gracias a la meditación, el estudio y la interpretación de minuetos, sonatinas, arias por parte de jóvenes principiantes quedará grabado y accesible en su "yo" más profundo, su verdadera naturaleza finalmente revelada por la música antigua. Esta presencia del Espíritu a su lado y camino al éxito, este “sentimiento de logro”, es la iluminación de un niño apartado por una mala orientación en la escuela, en la comunidad o simplemente deambulando por las calles.</p>
+          {{ __('messages.page_home_what_p3') }}</p>
     
         </div>
 
@@ -122,9 +122,9 @@ Con intensa atención y concentración, gracias a la meditación, el estudio y l
           <!-- Heading -->
           <div class="row justify-content-center text-center g-mb-0">
             <div class="col-lg-9">
-              <h1 class="h2 g-color-black g-font-weight-600 mb-2">Últimas Galerías</h1>
+              <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_home_title_gallery') }}</h1>
               <div class="d-inline-block g-width-30 g-height-2 g-bg-primary mb-2"></div>
-              <p class="lead mb-0">He capturado gran parte de los momentos maravillosos que he vivenciado en esta hermosa aventura</p>
+              <p class="lead mb-0">{{ __('messages.page_home_subtitle_gallery') }}</p>
             </div>
           </div>
           <!-- End Heading -->
@@ -272,7 +272,7 @@ Con intensa atención y concentración, gracias a la meditación, el estudio y l
 
             <div class="col-12 g-pt-50">
                   <center>
-                    <a href="galerias" class="btn btn-md u-btn-outline-blue g-mr-10 g-mb-15">Ver más Galerías</a>
+                    <a href="galerias" class="btn btn-md u-btn-outline-blue g-mr-10 g-mb-15">{{ __('messages.page_home_more_gallery') }}</a>
                   </center>
             </div>
 
@@ -289,9 +289,9 @@ Con intensa atención y concentración, gracias a la meditación, el estudio y l
         <!-- Heading -->
           <div class="row justify-content-center text-center g-mb-70">
             <div class="col-lg-9">
-              <h1 class="h2 g-color-black g-font-weight-600 mb-2">Mis Escritos</h1>
+              <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_home_title_write') }}</h1>
               <div class="d-inline-block g-width-30 g-height-2 g-bg-primary mb-2"></div>
-              <p class="lead mb-0">Las Aventuras de este hermoso proyecto Musica Dominus, me ha inspirado a escribir y narrar experiencias y vivencias.</p>
+              <p class="lead mb-0">{{ __('messages.page_home_subtitle_write') }}</p>
             </div>
           </div>
           <!-- End Heading -->
@@ -310,14 +310,14 @@ Con intensa atención y concentración, gracias a la meditación, el estudio y l
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">Prefacio (Avant-Propos)</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p0_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>April 27, 2016</time>
+            <time>{{ __('messages.page_home_date_p0_write') }}</time>
           </p>
 
           <p>
-Si la música es una forma de oración, toda armonía es una forma de silencio. Nos damos cuenta muy bien cuando un ruido estalla en el fervor de una tarde de verano en el Amazonas. Toda la naturaleza era vibrante, toda la vida resonaba en la intoxicación púrpura de la luz filtrada a través de las copas de los árboles. Los rayos de luz que los atravesaban, celebraban en antífonas de fuego el éxtasis del sol... Y de pronto gritos desgarradores, los de los monos aulladores rompieron todo este encantamiento. Una disputa, una discusión, un grito de amor nos revelaron la majestuosidad del silencio.</p>
+            {{ __('messages.page_home_body_p0_write') }}</p>
         </div>
       </div>
       <!-- End Article Content -->
@@ -338,14 +338,13 @@ Si la música es una forma de oración, toda armonía es una forma de silencio. 
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">I. Introducción de Musica Dominus</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p1_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>April 27, 2016</time>
+            <time>{{ __('messages.page_home_date_p1_write') }}</time>
           </p>
 
-          <p>¡Viajar no es una reacción de rebeldía del mundo sino más bien la necesidad de respirar! ¡Incluso parece que un viaje no se decide de inmediato o más bien no está programado! Despliegas tu hoja de ruta, la de toda América, se te acelera el corazón; la decisión e incluso la dirección, parece tomarse muy a menudo antes de encontrar la verdadera razón.
-En ese momento, en los años 80, aterricé en la costa oeste de los Estados Unidos, lleno de ambición. Antes llevaba una vida muy agradable, viviendo en un pequeño velero de 25 pies en el puerto de Antibes, en el sur de Francia. En cuanto empezó a soplar el mistral, barriendo con fuerza las nubes grises y el oleaje que nos llegaba del golfo de Génova, cogimos a mi novia y a mí, el timón hacia Saint-Tropez o las islas de Hyères. Para ganarnos la vida, teníamos un pequeño restaurante muy modesto.</p>
+          <p>{{ __('messages.page_home_body_p1_write') }}</p>
         </div>
       </div>
       <!-- End Article Content -->
@@ -366,13 +365,13 @@ En ese momento, en los años 80, aterricé en la costa oeste de los Estados Unid
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">II. Significado Espiritual de Musica Dominus</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p2_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>April 27, 2016</time>
+            <time>{{ __('messages.page_home_date_p0_write') }}</time>
           </p>
 
-          <p>Si recibí una educación católica tradicional, reconozco que realmente no tuve una convicción muy profunda en mi juventud. Respeté y seguí esta religión enseñada por mi familia. Mi abuela era música, me llevó a los concursos Queen Elisabeth en Bruselas. Me asombraron los conciertos para piano de Ludwig von Beethoven interpretados por Emil Gilels, los nocturnos y polonesas de Frederic Chopin interpretados por Mauricio Polini y otro de Tchaikovsky, tocado con énfasis por este pianista ruso cuyo nombre he olvidado. Traté de reproducir estos sonidos extraordinarios en el piano negro de la mansión de mi abuelo. Descubrí los acordes que resonaban gracias a los altos techos de esta casa de piedra con sus columnas de mármol.</p>
+          <p>{{ __('messages.page_home_body_p0_write') }}</p>
         </div>
       </div>
       <!-- End Article Content -->
@@ -382,7 +381,7 @@ En ese momento, en los años 80, aterricé en la costa oeste de los Estados Unid
 
   <div class="col-12 g-pt-50">
                   <center>
-                    <a href="escrituras" class="btn btn-md u-btn-outline-blue g-mr-10 g-mb-15">Ver más Escritos</a>
+                    <a href="escrituras" class="btn btn-md u-btn-outline-blue g-mr-10 g-mb-15">{{ __('messages.page_home_more_write') }}</a>
                   </center>
             </div>
 </div>

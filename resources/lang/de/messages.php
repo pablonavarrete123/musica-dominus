@@ -1,6 +1,6 @@
 <?php
 return [
-   'title'=>"Was ist Musica Dominus ?",
+   'page_home_title_what'=>"Was ist Musica Dominus ?",
    "nav_home"=>"Startseite",
    "nav_us"=>"Wir",
    "nav_write"=>"Meine Schriften",
