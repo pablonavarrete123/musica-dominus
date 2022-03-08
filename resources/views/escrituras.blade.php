@@ -28,7 +28,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p0_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="prefacio">{{ __('messages.page_home_title_p0_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p0_write') }}</time>
@@ -56,7 +56,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!"> {{ __('messages.page_home_title_p1_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="introduccion"> {{ __('messages.page_home_title_p1_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time> {{ __('messages.page_home_date_p1_write') }}</time>
@@ -83,7 +83,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">I{{ __('messages.page_home_title_p2_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="significado">I{{ __('messages.page_home_title_p2_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p2_write') }}</time>
@@ -110,7 +110,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p3_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="razones">{{ __('messages.page_home_title_p3_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p3_write') }}</time>
@@ -137,7 +137,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p4_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="musicotherapie">{{ __('messages.page_home_title_p4_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p4_write') }}</time>
@@ -164,7 +164,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p5_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="micamino">{{ __('messages.page_home_title_p5_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p5_write') }}</time>

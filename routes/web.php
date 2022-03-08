@@ -36,4 +36,26 @@ Route::get('/escrituras', function () {
     return view('escrituras');
 });
 
+Route::get('/prefacio', function () {
+    return view('prefacio');
+});
 
+Route::get('/introduccion', function () {
+    return view('introduccion');
+});
+
+Route::get('/significado', function () {
+    return view('significado');
+});
+
+Route::get('/razones', function () {
+    return view('razones');
+});
+
+Route::get('/musicotherapie', function () {
+    return view('musicotherapie');
+});
+
+Route::get('/micamino', function () {
+    return view('micamino');
+});

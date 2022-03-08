@@ -134,18 +134,24 @@
       </div>
 
       <div class="row">
-        <div class="col-lg-3 g-mb-30">
+        <div class="col-lg-3">
           <!-- Article -->
           <article class="u-shadow-v1-4">
-            <a href="#!"><img class="img-fluid w-100" src="assets/img/galeria1.jpg" alt="Image Description"></a>
-
+            <div class="js-carousel text-center" data-infinite="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-35 g-height-40 g-font-size-18 g-color-gray g-bg-white g-mt-minus-10" data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0">
+              <div class="js-slide">
+                <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-1" data-src="assets/img/galeria1.jpg" data-caption="Lightbox Gallery">
+                  <img class="img-fluid g-rounded-4" src="assets/img/galeria1.jpg" alt="Image Description">
+                </a>
+              </div>
+        
+              <div class="js-slide">
+                <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-1" data-src="assets/img/galeria2.jpg" data-caption="Lightbox Gallery">
+                  <img class="img-fluid g-rounded-6" src="assets/img/galeria2.jpg" alt="Image Description">
+                </a>
+              </div>
+            </div>
             <div class="g-pa-25">
-              
-
-              <h5 class="g-mb-40">
-                  <a class="u-link-v5 g-color-main g-color-primary--hover g-text-underline--none--hover" href="#!">Comunidad Cristiana Adventista - Doce Tribus</a>
-                </h5>
-
+            <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Cristiana Adventista - Doce Tribus</h5>
             </div>
           </article>
           <!-- End Article -->
@@ -310,7 +316,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p0_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="prefacio">{{ __('messages.page_home_title_p0_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p0_write') }}</time>
@@ -338,7 +344,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p1_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="introduccion">{{ __('messages.page_home_title_p1_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p1_write') }}</time>
@@ -365,7 +371,7 @@
       <div class="col-sm-9 g-px-0--sm">
         <div class="u-info-v1-1 g-height-200 g-bg-gray-light-v5 g-bg-gray-light-gradient-v1--after g-pa-20-30-0">
           <h3 class="h6 g-font-weight-600 text-uppercase">
-            <a class="u-link-v5 g-color-black g-color-primary--hover" href="#!">{{ __('messages.page_home_title_p2_write') }}</a>
+            <a class="u-link-v5 g-color-black g-color-primary--hover" href="significado">{{ __('messages.page_home_title_p2_write') }}</a>
           </h3>
           <p class="small g-color-primary">
             <time>{{ __('messages.page_home_date_p0_write') }}</time>
