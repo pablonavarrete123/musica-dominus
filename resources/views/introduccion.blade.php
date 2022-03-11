@@ -1,5 +1,5 @@
 @extends('layout')
-@section('titulo','introduccion')
+@section('titulo','Introduccion')
 @section('contenido')
 
 <section class="container g-pt-100 g-pb-100">
@@ -14,10 +14,6 @@
 
 <div class="row">
   <div class="col-lg-6">
-    <div class="mb-4">
-      <h2 class="h3 text-uppercase mb-3">{{ __('messages.page_detalle_write_introduccion_subtitle') }}</h2>
-      <div class="g-width-60 g-height-1 g-bg-black"></div>
-    </div>
     <div class="mb-2">
       <p>{{ __('messages.page_detalle_write_introduccion_p1') }}</p><br>
       <p>{{ __('messages.page_detalle_write_introduccion_p2') }}</p>
@@ -48,7 +44,7 @@
       <p>{{ __('messages.page_detalle_write_introduccion_p18') }}</p><br>
       <p>{{ __('messages.page_detalle_write_introduccion_p19') }}</p><br>
       <p>{{ __('messages.page_detalle_write_introduccion_p20') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_introduccion_p20') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_introduccion_p21') }}</p><br>
   </div>
 </div>
   <div class="float-right g-mt-30 g-mr-30">

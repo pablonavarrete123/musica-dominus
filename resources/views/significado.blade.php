@@ -1,12 +1,12 @@
 @extends('layout')
-@section('titulo','significado')
+@section('titulo','Significado')
 @section('contenido')
 
 <section class="container g-pt-100 g-pb-100">
 <!-- Heading -->
 <div class="row justify-content-center text-center g-mb-70">
   <div class="col-lg-9">
-    <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_detalle_write_significado_title') }}</h1>
+    <h1 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_detalle_write_significado_title') }}<i>{{ __('messages.page_detalle_write_significado_subtitle') }}</i></h1>
     <div class="d-inline-block g-width-30 g-height-2 g-bg-primary mb-2"></div>
   </div>
 </div>
@@ -14,10 +14,6 @@
 
 <div class="row">
   <div class="col-lg-6">
-    <div class="mb-4">
-      <h2 class="h3 text-uppercase mb-3">{{ __('messages.page_detalle_write_significado_subtitle') }}<i>{{ __('messages.page_detalle_write_significado_subtitle1') }}</i></h2>
-      <div class="g-width-60 g-height-1 g-bg-black"></div>
-    </div>
     <div class="mb-2">
       <p>{{ __('messages.page_detalle_write_significado_p1') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p2') }}</p><br>     
@@ -36,11 +32,11 @@
       <p>{{ __('messages.page_detalle_write_significado_p7') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p8') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p9') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_significado_p10') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_significado_p11') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_significado_p12') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_significado_p13') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_significado_p14') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_significado_p10') }}</p>
+      <p>{{ __('messages.page_detalle_write_significado_p11') }}</p>
+      <p>{{ __('messages.page_detalle_write_significado_p12') }}</p>
+      <p>{{ __('messages.page_detalle_write_significado_p13') }}</p>
+      <p>{{ __('messages.page_detalle_write_significado_p14') }}</p>
       <p>{{ __('messages.page_detalle_write_significado_p15') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p16') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p17') }}</p><br>
@@ -53,7 +49,7 @@
       <p>{{ __('messages.page_detalle_write_significado_p24') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p25') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p26') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_significado_p27') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_significado_p27') }}</p>
       <p>{{ __('messages.page_detalle_write_significado_p28') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p29') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p30') }}</p><br>

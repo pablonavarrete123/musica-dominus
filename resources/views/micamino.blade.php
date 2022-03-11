@@ -1,5 +1,5 @@
 @extends('layout')
-@section('titulo','micamino')
+@section('titulo','Mi camino')
 @section('contenido')
 
 <section class="container g-pt-100 g-pb-100">
@@ -14,10 +14,6 @@
 
 <div class="row">
   <div class="col-lg-6">
-    <div class="mb-4">
-      <h2 class="h3 text-uppercase mb-3">{{ __('messages.page_detalle_write_micamino_subtitle') }}</h2>
-      <div class="g-width-60 g-height-1 g-bg-black"></div>
-    </div>
     <div class="mb-2">
       <p>{{ __('messages.page_detalle_write_micamino_p1') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p2') }}</p>
@@ -33,14 +29,14 @@
       <p>{{ __('messages.page_detalle_write_micamino_p3') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p4') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p5') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_micamino_p6') }}</p><br>
+      <b><u><p>{{ __('messages.page_detalle_write_micamino_p6') }}</p></u></b><br>
       <p>{{ __('messages.page_detalle_write_micamino_p7') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p8') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p9') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p10') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p11') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p12') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_micamino_p13') }}</p><br>
+      <b><u><p>{{ __('messages.page_detalle_write_micamino_p13') }}</p></u></b><br>
       <p>{{ __('messages.page_detalle_write_micamino_p14') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p15') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p16') }}</p><br>
@@ -49,6 +45,42 @@
       <p>{{ __('messages.page_detalle_write_micamino_p19') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p20') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p20') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p21') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p22') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p23') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p24') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p25') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p26') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p27') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p28') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p29') }}</p><br>
+      <b><u><p>{{ __('messages.page_detalle_write_micamino_p30') }}</p></u></b><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p31') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p32') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p33') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p34') }}</p><br>
+      <b><u><p>{{ __('messages.page_detalle_write_micamino_p35') }}</p></u></b><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p36') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p37') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p38') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p39') }}</p><br>
+      <b><u><p>{{ __('messages.page_detalle_write_micamino_p40') }}</p></u></b><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p41') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p42') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p43') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p44') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p45') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p46') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p47') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p48') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p49') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p50') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p51') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p52') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p53') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_micamino_p54') }}</p>
+      <p>{{ __('messages.page_detalle_write_micamino_p55') }}</p><br>
+
   </div>
 </div>
   <div class="float-right g-mt-30 g-mr-30">

@@ -14,10 +14,6 @@
 
 <div class="row">
   <div class="col-lg-6">
-    <div class="mb-4">
-      <h2 class="h3 text-uppercase mb-3">{{ __('messages.page_detalle_write_prefacio_title') }}</h2>
-      <div class="g-width-60 g-height-1 g-bg-black"></div>
-    </div>
     <div class="mb-2">
       <p>{{ __('messages.page_detalle_write_prefacio_p1') }}</p><br>
       <p>{{ __('messages.page_detalle_write_prefacio_p2') }}</p>

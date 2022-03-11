@@ -1,5 +1,5 @@
 @extends('layout')
-@section('titulo','razones')
+@section('titulo','Razones')
 @section('contenido')
 
 <section class="container g-pt-100 g-pb-100">
@@ -14,17 +14,13 @@
 
 <div class="row">
   <div class="col-lg-6">
-    <div class="mb-4">
-      <h2 class="h3 text-uppercase mb-3">{{ __('messages.page_detalle_write_razones_subtitle') }}</h2>
-      <div class="g-width-60 g-height-1 g-bg-black"></div>
-    </div>
     <div class="mb-2">
       <p>{{ __('messages.page_detalle_write_razones_p1') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_razones_p2') }}</p><br>
+      <b><p>{{ __('messages.page_detalle_write_razones_p2') }}</p></b><br>
       <p>{{ __('messages.page_detalle_write_razones_p3') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p4') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p4') }}</p><br>
-      
+
     </div>
   </div>
 
@@ -41,14 +37,14 @@
       <p>{{ __('messages.page_detalle_write_razones_p9') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p10') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p11') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_razones_p12') }}</p><br>
+      <b><p>{{ __('messages.page_detalle_write_razones_p12') }}</p></b><br>
       <p>{{ __('messages.page_detalle_write_razones_p13') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p14') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p15') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p16') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p17') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p18') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_razones_p19') }}</p><br>
+      <b><p>{{ __('messages.page_detalle_write_razones_p19') }}</p></b><br>
       <p>{{ __('messages.page_detalle_write_razones_p20') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p20') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p21') }}</p><br>
@@ -56,12 +52,45 @@
       <p>{{ __('messages.page_detalle_write_razones_p23') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p24') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p25') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_razones_p26') }}</p><br>
+      <b><p>{{ __('messages.page_detalle_write_razones_p26') }}</p></b><br>
       <p>{{ __('messages.page_detalle_write_razones_p27') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p28') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p29') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p30') }}</p><br>
       <p>{{ __('messages.page_detalle_write_razones_p31') }}</p><br>
+      <div class="g-pb-10">
+        <img class="img-fluid" style="margin-left: 36%;" src="assets/img/bachpiano.png" alt="Image Description">
+      </div>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p32') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p33') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p34') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p35') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p36') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p37') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_razones_p38') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p39') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p40') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p41') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p42') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p43') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p44') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p45') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p46') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_razones_p47') }}</p><br>
+      <b><p class="text-center">{{ __('messages.page_detalle_write_razones_p48') }}</p></b><br>
+      <p>{{ __('messages.page_detalle_write_razones_p49') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_razones_p50') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_razones_p51') }}</p>
+      <ul>
+        <li>{{ __('messages.page_detalle_write_razones_p52_list0') }}</li>
+        <li>{{ __('messages.page_detalle_write_razones_p52_list1') }}</li>
+        <li>{{ __('messages.page_detalle_write_razones_p52_list2') }}</li>
+      </ul><br>
+      <p>{{ __('messages.page_detalle_write_razones_p53') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_razones_p54') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_razones_p55') }}</p><br>
+
+ 
   </div>
 </div>
   <div class="float-right g-mt-30 g-mr-30">

@@ -110,7 +110,7 @@
               </ul>
              <!-- Right Side Of Navbar Language -->
                     <div class="dropdown">
-                      <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+                      <button type="button" class="btn dropdown-toggle text-uppercase g-font-weight-600" data-toggle="dropdown">
                         {{ __('messages.nav_lang') }}
                       </button>
                       <div class="dropdown-menu">
