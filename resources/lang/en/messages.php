@@ -93,6 +93,18 @@ return [
    "page_home_date_p5_write"=>"April 27, 2016",
    "page_home_body_p5_write"=>"My journey as a volunteer teacher in Native American communities. In North America, I was fascinated by the Sioux, the Navajos, in the Great Plains, the Southeastern Cheyenne, the Apaches in the southwest. I was able to visit the reservations, exchange ideas with many of them. They speak as many different dialects there as the entire Amerindian population of Colombia. Unlike the tourist air travelers who know much more the capitals of the countries they visit, the airport and the comfortable international hotels being close; personally, humble road traveler, without schedule, without constraints, not understanding well the objective of the organized trips, I slowly began to feel invaded by this gentle primitive savagery. I felt closer to the natives than to the white majority of these small Central American countries. With them, I learned to live as simply as possible, in harmony tact with nature and trying to taste everything, especially silence. I don't like to talk about poverty; but live off the fresh produce of the land, to the rhythm of the seasons, from its good or bad harvests. The harshness of the conditions and the vagaries of the climate make you want to cry justice!",
 
+   
+   //Contacto 
+   "page_contacto_title"=>"Contact",
+   "page_contacto_subtitle"=>"Feel free to contact",
+   "page_contacto_label_firstname"=>"First name",
+   "page_contacto_label_lastname"=>"Last name",
+   "page_contacto_label_email"=>"Your email",
+   "page_contacto_label_number"=>"Phone number",
+   "page_contacto_label_message"=>"Your message",
+   "page_contacto_label_send"=>"Send",
+   
+   
    //footer
    "footer_text"=>"We need your support a donation to keep this project going.",
    "footer_button"=>"Support us",

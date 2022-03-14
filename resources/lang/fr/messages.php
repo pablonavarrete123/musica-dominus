@@ -338,6 +338,17 @@ return [
    "page_detalle_write_readmore_bt"=>"Lire la suite",
    "page_detalle_write_backhome_bt"=>"Revenir à l'accueil",
 
+
+   //Contacto 
+   "page_contacto_title"=>"Contact",
+   "page_contacto_subtitle"=>"N'hésite pas à me contacter",
+   "page_contacto_label_firstname"=>"Prénom",
+   "page_contacto_label_lastname"=>"Nom",
+   "page_contacto_label_email"=>"Courrier électronique",
+   "page_contacto_label_number"=>"Numéro",
+   "page_contacto_label_message"=>"Ton messsage",
+   "page_contacto_label_send"=>"Envoyer",
+
    //footer
    "footer_text"=>"Nous avons besoin de votre soutien un don pour que ce projet continue d'exister.",
    "footer_button"=>"Soutenez-nous",

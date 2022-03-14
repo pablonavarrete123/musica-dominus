@@ -59,3 +59,11 @@ Route::get('/musicotherapie', function () {
 Route::get('/micamino', function () {
     return view('micamino');
 });
+
+Route::get('/contacto', function () {
+    return view('contacto');
+});
+
+Route::get('/donacion', function () {
+    return view('donacion');
+});

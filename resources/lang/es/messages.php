@@ -362,6 +362,17 @@ return [
    "page_detalle_write_readmore_bt"=>"",
    "page_detalle_write_backhome_bt"=>"",
 
+
+     //Contacto 
+   "page_contacto_title"=>"Contacto",
+   "page_contacto_subtitle"=>"no dudes en contactarme ",
+   "page_contacto_label_firstname"=>"Nombre",
+   "page_contacto_label_lastname"=>"Apellido",
+   "page_contacto_label_email"=>"Correo electrónico",
+   "page_contacto_label_number"=>"Número",
+   "page_contacto_label_message"=>"Tu mensaje",
+   "page_contacto_label_send"=>"Enviar",
+
    //footer
    "footer_text"=>"Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.",
    "footer_button"=>"Apóyanos",

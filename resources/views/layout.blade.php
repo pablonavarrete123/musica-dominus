@@ -97,13 +97,13 @@
                 
               </a>
                 </li>
-                <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" >
-                  <a href="#!" class="nav-link">{{ __('messages.nav_contact') }}
+                <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" id="op5" >
+                  <a href="contacto" class="nav-link">{{ __('messages.nav_contact') }}
                 
               </a>
                 </li>
-                <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" style="background: #4caf50;">
-                  <a href="#!" class="nav-link" style="color: #fff;">{{ __('messages.nav_don') }}
+                <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" style="background: #4caf50;" id="op6">
+                  <a href="donacion" class="nav-link" style="color: #fff;">{{ __('messages.nav_don') }}
                 
               </a>
                 </li>
@@ -115,10 +115,10 @@
                       </button>
                       <div class="dropdown-menu">
                         <a class="dropdown-item" href="{{ url('locale/en')}}"><img src="assets/img/us.png" width="30px" height="20x"> English</a>
-                        <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x"> French</a>
-                        <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x"> Spanish</a>
-                        <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> German</a>
-                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Portuguese</a>
+                        <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x"> Français</a>
+                        <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x"> Español</a>
+                        <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> Deutsch</a>
+                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Português</a>
                       </div>
                     </div> 
             </div>
@@ -142,7 +142,7 @@
       <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">{{ __('messages.footer_text') }}</p>
     </div>
     <div class="align-self-md-center">
-      <a class="btn btn-md u-btn-white" href="#!">{{ __('messages.footer_button') }}</a>
+      <a class="btn btn-md u-btn-white" href="donacion">{{ __('messages.footer_button') }}</a>
     </div>
   </div>
 </section>
@@ -162,17 +162,17 @@
 
       <!-- Footer - List -->
       <ul class="list-inline mb-5">
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="index.html">{{ __('messages.nav_home') }}</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="index">{{ __('messages.nav_home') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="nosotros.html">{{ __('messages.nav_us') }}</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="nosotros">{{ __('messages.nav_us') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">{{ __('messages.nav_write') }}</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="escrituras">{{ __('messages.nav_write') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="galerias.html">{{ __('messages.nav_gallery') }}</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="galerias">{{ __('messages.nav_gallery') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">{{ __('messages.nav_contact') }}</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="contacto">{{ __('messages.nav_contact') }}</a>
         </li>
-        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="#">{{ __('messages.nav_don') }}</a>
+        <li class="list-inline-item mx-3"><a class="u-link-v5 g-color-black g-color-primary--hover g-font-weight-500" href="donacion">{{ __('messages.nav_don') }}</a>
         </li>
       </ul>
       <!-- End Footer - List -->
