@@ -43,44 +43,67 @@
 
     <div class="row justify-content-center">
       <div class="col-md-5">
-        <form>
+        <form action="{{route('contact.store')}}" method="POST">
+            @csrf
           <div class="row">
             <div class="col-md-6 form-group g-mb-20">
               <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_firstname') }}</label>
-              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" placeholder="John">
+              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" name="name" id="name" placeholder="John">
+              @error('name')
+                  <p class="text-danger col-lg-8">{{$message}}</p>
+             @enderror
             </div>
 
             <div class="col-md-6 form-group g-mb-20">
               <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_lastname') }}</label>
-              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" placeholder="Doe">
+              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" name="lastname" id="lastname" placeholder="Doe">
+              @error('lastname')
+              <p class="text-danger col-lg-8">{{$message}}</p>
+              @enderror
             </div>
           </div>
 
           <div class="g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_email') }}</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="email" placeholder="johndoe@gmail.com">
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="email" name="email" id="email" placeholder="johndoe@gmail.com">
+            @error('email')
+            <p class="text-danger col-lg-8">{{$message}}</p>
+            @enderror
           </div>
 
           <div class="g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_number') }}</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" placeholder="+ (01) 222 33 44">
-          </div>
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" id="phone" name="phone" placeholder="+ (01) 222 33 44">
+            @error('number')
+            <p class="text-danger col-lg-8">{{$message}}</p>
+            @enderror 
+         </div>
 
-        </form>
+        
       </div>
       <div class="col-md-7">
         <div class="g-mb-40">
           <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_message') }}</label>
-          <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="12" placeholder=""></textarea>
+          <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="12" placeholder="" name="message" id="message"></textarea>
+          @error('message')
+            <p class="text-danger col-lg-8">{{$message}}</p>
+         @enderror
         </div>
 
         <div class="text-right">
           <button class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded-3 g-py-12 g-px-35" type="submit" role="button">{{ __('messages.page_contacto_label_send') }}</button>
         </div>
       </div>
+    </form>
     </div>
   </section>
   <!-- End Contact Form -->
+
+    @if (session('info'))
+          <script>
+            alert("{{session('info')}}")
+          </script>
+      @endif
 
   <script>
     window.onload = function(){
