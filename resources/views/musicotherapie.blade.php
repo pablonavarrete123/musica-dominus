@@ -16,7 +16,8 @@
   <div class="col-lg-6">
     <div class="mb-2">
       <p>{{ __('messages.page_detalle_write_musicotherapie_p1') }}</p><br>
-      <p>{{ __('messages.page_detalle_write_musicotherapie_p2') }}</p>
+      <p>{{ __('messages.page_detalle_write_musicotherapie_p2') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_musicotherapie_p3') }}</p>
       
     </div>
   </div>
@@ -26,7 +27,6 @@
   </div>
 
   <div class="col">
-      <p>{{ __('messages.page_detalle_write_musicotherapie_p3') }}</p><br>
       <p>{{ __('messages.page_detalle_write_musicotherapie_p4') }}</p><br>
       <p><b>{{ __('messages.page_detalle_write_musicotherapie_p5') }}</b></p><br>
       <p>{{ __('messages.page_detalle_write_musicotherapie_p6') }}</p><br>

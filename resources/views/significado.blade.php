@@ -77,6 +77,7 @@
       <p>{{ __('messages.page_detalle_write_significado_p44') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p45') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p46') }}</p><br>
+      <p>{{ __('messages.page_detalle_write_significado_p46a') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p47') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p48') }}</p><br>
       <p>{{ __('messages.page_detalle_write_significado_p49') }}</p><br>

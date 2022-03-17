@@ -117,8 +117,8 @@
                         <a class="dropdown-item" href="{{ url('locale/en')}}"><img src="assets/img/us.png" width="30px" height="20x"> English</a>
                         <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x"> Français</a>
                         <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x"> Español</a>
-                        <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> Deutsch</a>
-                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Português</a>
+                       <!--  <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> Deutsch</a>
+                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Português</a>-->
                       </div>
                     </div> 
             </div>
