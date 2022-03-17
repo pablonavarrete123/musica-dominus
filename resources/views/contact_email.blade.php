@@ -1,6 +1,6 @@
 <h2>Bonjour Vincent,</h2>
-You received an email from : {{ $name }}
-Here are the details:
+Vous avez reçu un email de :{{ $name }}
+Voici les détails:
 <b>Name:</b> {{ $name }}
 <b>Last name:</b> {{ $lastname }}
 <b>Email:</b> {{ $email }}

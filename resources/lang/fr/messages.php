@@ -349,6 +349,10 @@ return [
    "page_contacto_label_message" => "Ton messsage",
    "page_contacto_label_send" => "Envoyer",
 
+   //Donacion
+   "page_donacion_title"=>"Don",
+   "page_donacion_subtitle"=>"Nous avons besoin de votre soutien un don pour que ce projet continue d'exister.",
+
    //footer
    "footer_text" => "Nous avons besoin de votre soutien un don pour que ce projet continue d'exister.",
    "footer_button" => "Soutenez-nous",

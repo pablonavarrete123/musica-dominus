@@ -7,9 +7,9 @@
     <div class="row g-mb-20">
       <div class="col-lg-6 g-mb-50">
         <!-- Heading -->
-        <h2 class="h1 g-color-black g-font-weight-700 mb-4">{{ __('messages.page_contacto_title') }}</h2>
+        <h2 class="h2 g-color-black g-font-weight-600 mb-2">{{ __('messages.page_contacto_title') }}</h2>
         <div class="d-inline-block g-width-30 g-height-2 g-bg-primary mb-2"></div>
-        <p class="g-font-size-18 mb-0">{{ __('messages.page_contacto_subtitle') }}</p>
+        <p class="lead mb-0">{{ __('messages.page_contacto_subtitle') }}</p>
         <!-- End Heading -->
       </div>
       <div class="col-lg-3 align-self-end ml-auto g-mb-50">
@@ -99,6 +99,7 @@
   </section>
   <!-- End Contact Form -->
 
+  
     @if (session('info'))
           <script>
             alert("{{session('info')}}")

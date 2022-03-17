@@ -64,7 +64,6 @@ Route::get('/contacto', function () {
     return view('contacto');
 });
 
-Route::get('/contacto', [ContactController::class, 'index'])->name('contact.index');
 Route::post('/contacto', [ContactController::class, 'store'])->name('contact.store');
 
 Route::get('/donacion', function () {

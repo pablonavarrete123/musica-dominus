@@ -512,9 +512,9 @@
             </a>
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-11" data-src="assets/img/11 - San Feliz - Venezuela/San Felix - Puerto Ordaz 008.JPG" data-caption="San Feliz - Venezuela">
             </a>
-            <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-11" data-src="assets/img/13 - San Feliz - Venezuela/San Felix - Puerto Ordaz 008.JPG" data-caption="San Feliz - Venezuela">
+            <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-11" data-src="assets/img/11 - San Feliz - Venezuela/San Felix - Puerto Ordaz 013.JPG" data-caption="San Feliz - Venezuela">
             </a>
-            <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-11" data-src="assets/img/19 - San Feliz - Venezuela/San Felix - Puerto Ordaz 008.JPG" data-caption="San Feliz - Venezuela">
+            <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-11" data-src="assets/img/11 - San Feliz - Venezuela/San Felix - Puerto Ordaz 019.JPG" data-caption="San Feliz - Venezuela">
             </a>
       
         <div class="g-pa-25">

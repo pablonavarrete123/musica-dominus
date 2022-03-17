@@ -350,6 +350,10 @@ return [
     "page_contacto_label_message" => "Your message",
     "page_contacto_label_send" => "Send",
 
+    //Donacion
+    "page_donacion_title" => "Donation",
+    "page_donacion_subtitle" => "We need your support a donation to keep this project going.",
+
 
     //footer
     "footer_text" => "We need your support a donation to keep this project going.",

@@ -344,6 +344,10 @@ return [
    "page_contacto_label_message" => "Tu mensaje",
    "page_contacto_label_send" => "Enviar",
 
+   //Donacion
+   "page_donacion_title" => "Donacion",
+   "page_donacion_subtitle" => "Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.",
+
    //footer
    "footer_text" => "Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.",
    "footer_button" => "Apóyanos",
