@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Mail;
 
 class ContactController extends Controller
 {
@@ -11,38 +12,31 @@ class ContactController extends Controller
 }
 
 public function store(Request $request){
+
     $request->validate([
        'name'=>'required',
        'lastname'=>'required',
        'email'=>'required|email',
-       'phone'=>'regex:/^([0-9\s\-\+\(\)]*)$/|min:10',
+       'phone'=>'required|regex:/^([0-9\s\-\+\(\)]*)$/|min:10',
        'message'=>'required'
     ]);
-    
-    $body =   "<p>". $request -> name . " ". $request -> lastname . " " . $request -> email . " " . $request -> phone . " " . $request -> message . " <br>";
 
+         //  Send mail
+         Mail::send('contact_email', array(
+            'name' => $request->get('name'),
+            'lastname' => $request->get('lastname'),
+            'email' => $request->get('email'),
+            'phone' => $request->get('phone'),
+            'msg' => $request->get('message'),
+        ), function($message) use ($request){
+            $message->from($request->email);
+            $message->to('', 'Vincent')->subject('Formulaire de contact Musica Dominus');
+        });
 
-
-    /* Configuracion correo */
-    $transport = (new \Swift_SmtpTransport('smtp.gmail.com', 587,'tls'))
-    ->setUsername(env('MAIL_USERNAME'))
-    ->setPassword(env('MAIL_PASSWORD'));
-    
-    // Create the Mailer using your created Transport
-    $mailer = new \Swift_Mailer($transport);
-
-     $message = (new \Swift_Message('Formulario Contacto Musica Dominus'))
-            ->setFrom([env($request -> email) => $request -> name])
-            ->setTo(['p@gmail.com'])
-            ->setBody($body, 'text/html');
-        
-
-            $mailer->send($message);
 
   
 
-  
-   return redirect()->route('contacto')->with('info','mensaje enviado');
+        return back()->with('info', 'mensaje enviado');
 }
 }
 

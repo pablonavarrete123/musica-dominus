@@ -353,6 +353,10 @@ return [
     //Donacion
     "page_donacion_title" => "Donation",
     "page_donacion_subtitle" => "We need your support a donation to keep this project going.",
+    "page_donacion_title_p1"=>"Target",
+    "page_donacion_p_p1"=>"Our goal is to be able to help and teach to the native South American peoples without profit.",
+    "page_donacion_title_p2"=>"Your support is helpful",
+    "page_donacion_p_p2"=>"With your donation we can help children and young people from South American native peoples to learn the Bible, languages and the piano.",
 
 
     //footer

@@ -347,6 +347,10 @@ return [
    //Donacion
    "page_donacion_title" => "Donacion",
    "page_donacion_subtitle" => "Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.",
+   "page_donacion_title_p1"=>"Objetivo",
+   "page_donacion_p_p1"=>"Nuestro objetivo es poder ayudar y enseñar a los pueblos nativo sud americanos sin fines de lucro.",
+   "page_donacion_title_p2"=>"Tu apoyo es útil",
+   "page_donacion_p_p2"=>"Con tu donacion podemos ayudar a ninos y joven de pueblos nativos sud americano para poder aprender de la bibla, idiomas y del piano.",
 
    //footer
    "footer_text" => "Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.",

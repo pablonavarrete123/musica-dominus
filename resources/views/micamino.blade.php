@@ -79,7 +79,7 @@
       <p>{{ __('messages.page_detalle_write_micamino_p52') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p53') }}</p><br>
       <p>{{ __('messages.page_detalle_write_micamino_p54') }}</p>
-      <p>{{ __('messages.page_detalle_write_micamino_p55') }}</p><br>
+      <p><i>{{ __('messages.page_detalle_write_micamino_p55') }}</i></p><br>
 
   </div>
 </div>

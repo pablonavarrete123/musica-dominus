@@ -26,14 +26,14 @@
         <div class="media mb-2">
           <div class="d-flex align-self-center mr-3">
             <span class="u-icon-v1 g-color-primary g-font-size-26">
-                <i class="icon-finance-009 u-line-icon-pro"></i>
+                <i class="icon-directions"></i>
               </span>
           </div>
           <div class="media-body align-self-center">
-            <h3 class="h5 mb-0">Modern design</h3>
+            <h3 class="h5 mb-0">{{ __('messages.page_donacion_title_p1') }}</h3>
           </div>
         </div>
-        <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+        <p class="g-color-gray-dark-v4">{{ __('messages.page_donacion_p_p1') }}</p>
       </div>
       <!-- End Icon Blocks -->
 
@@ -42,14 +42,14 @@
         <div class="media mb-2">
           <div class="d-flex align-self-center mr-3">
             <span class="u-icon-v1 g-color-primary g-font-size-26">
-                <i class="icon-science-020 u-line-icon-pro"></i>
+                <i class="fa fa-group"></i>
               </span>
           </div>
           <div class="media-body align-self-center">
-            <h3 class="h5 mb-0">Extensive documentation</h3>
+            <h3 class="h5 mb-0">{{ __('messages.page_donacion_title_p2') }}</h3>
           </div>
         </div>
-        <p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+        <p class="g-color-gray-dark-v4">{{ __('messages.page_donacion_p_p2') }}</p>
       </div>
       <!-- End Icon Blocks -->
 
