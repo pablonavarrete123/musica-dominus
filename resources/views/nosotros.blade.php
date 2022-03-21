@@ -1,5 +1,5 @@
 @extends('layout')
-@section('titulo','Nosotros')
+@section('titulo','Acerca')
 @section('contenido')
 
     <!-- Icon Blocks -->

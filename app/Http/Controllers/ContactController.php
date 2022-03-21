@@ -36,7 +36,7 @@ public function store(Request $request){
 
   
 
-        return back()->with('info', 'mensaje enviado');
+        return back()->with('info', 'Message sent');
 }
 }
 

@@ -2,7 +2,7 @@
 return [
    //Header
    'nav_home' => "Inicio",
-   "nav_us" => "Nosotros",
+   "nav_us" => "Acerca",
    "nav_write" => "Mis escritos",
    "nav_gallery" => "Galería",
    "nav_contact" => "Contacto",

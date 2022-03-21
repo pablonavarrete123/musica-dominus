@@ -48,35 +48,43 @@
           <div class="row">
             <div class="col-md-6 form-group g-mb-20">
               <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_firstname') }}</label>
-              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" value="{{ old('name') }}" type="text" name="name" id="name" placeholder="John">
-              @error('name')
-                  <p class="text-danger col-lg-8">{{$message}}</p>
-             @enderror
+              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15  {{ $errors->has('name') ? 'error' : '' }}" value="{{ old('name') }}" type="text" name="name" id="name" placeholder="">
+              @if ($errors->has('name'))
+              <div class="error">
+                  {{ $errors->first('name') }}
+              </div>
+              @endif
             </div>
 
             <div class="col-md-6 form-group g-mb-20">
               <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_lastname') }}</label>
-              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" value="{{ old('lastname') }}" type="text" name="lastname" id="lastname" placeholder="Doe">
-              @error('lastname')
-              <p class="text-danger col-lg-8">{{$message}}</p>
-              @enderror
+              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('lastname') ? 'error' : '' }}" value="{{ old('lastname') }}" type="text" name="lastname" id="lastname" placeholder="">
+              @if ($errors->has('lastname'))
+              <div class="error">
+                  {{ $errors->first('name') }}
+              </div>
+              @endif
             </div>
           </div>
 
           <div class="g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_email') }}</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" value="{{ old('email') }}" type="email" name="email" id="email" placeholder="johndoe@gmail.com">
-            @error('email')
-            <p class="text-danger col-lg-8">{{$message}}</p>
-            @enderror
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('email') ? 'error' : '' }}" value="{{ old('email') }}" type="email" name="email" id="email" placeholder="">
+            @if ($errors->has('email'))
+              <div class="error">
+                  {{ $errors->first('email') }}
+              </div>
+            @endif
           </div>
 
           <div class="g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_number') }}</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" value="{{ old('phone') }}" type="tel" id="phone" name="phone" placeholder="+ (01) 222 33 44">
-            @error('number')
-            <p class="text-danger col-lg-8">{{$message}}</p>
-            @enderror 
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('phone') ? 'error' : '' }}" value="{{ old('phone') }}" type="tel" id="phone" name="phone" placeholder="">
+            @if ($errors->has('phone'))
+              <div class="error">
+                  {{ $errors->first('phone') }}
+              </div>
+            @endif
          </div>
 
         
@@ -84,10 +92,12 @@
       <div class="col-md-7">
         <div class="g-mb-40">
           <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_message') }}</label>
-          <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" value="{{ old('message') }}" rows="12" placeholder="" name="message" id="message"></textarea>
-          @error('message')
-            <p class="text-danger col-lg-8">{{$message}}</p>
-         @enderror
+          <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15 {{ $errors->has('message') ? 'error' : '' }}" rows="12" placeholder="" name="message" id="message">{{ old('message') }}</textarea>
+          @if ($errors->has('message'))
+              <div class="error">
+                  {{ $errors->first('message') }}
+              </div>
+          @endif
         </div>
 
         <div class="text-right">

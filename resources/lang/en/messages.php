@@ -3,7 +3,7 @@ return [
     //Header
     "page_home_title_what" => "What is Musica Dominus ?",
     "nav_home" => "Home",
-    "nav_us" => "Us",
+    "nav_us" => "About",
     "nav_write" => "My writings",
     "nav_gallery" => "Gallery",
     "nav_contact" => "Contact",
