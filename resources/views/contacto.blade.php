@@ -34,8 +34,8 @@
               </span>
           </div>
           <div class="media-body align-self-center">
-            <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Email Address</h3>
-            <p class="mb-0">htmlstream@support.com</p>
+            <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">{{ __('messages.page_contacto_icon_title1') }}</h3>
+            <p class="mb-0">{{ __('messages.page_contacto_icon_subtitle1') }}</p>
           </div>
         </div>
       </div>
