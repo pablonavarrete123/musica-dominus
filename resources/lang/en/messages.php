@@ -349,6 +349,10 @@ return [
     "page_contacto_label_number" => "Phone number",
     "page_contacto_label_message" => "Your message",
     "page_contacto_label_send" => "Send",
+    "page_contacto_icon_title"=>"",
+    "page_contacto_icon_subtitle"=>"",
+    "page_contacto_icon_title1"=>"",
+    "page_contacto_icon_subtitle1"=>"",
 
     //Donacion
     "page_donacion_title" => "Donation",

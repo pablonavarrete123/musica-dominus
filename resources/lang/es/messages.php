@@ -343,6 +343,10 @@ return [
    "page_contacto_label_number" => "Número",
    "page_contacto_label_message" => "Tu mensaje",
    "page_contacto_label_send" => "Enviar",
+   "page_contacto_icon_title"=>"",
+   "page_contacto_icon_subtitle"=>"",
+   "page_contacto_icon_title1"=>"",
+   "page_contacto_icon_subtitle1"=>"",
 
    //Donacion
    "page_donacion_title" => "Donacion",

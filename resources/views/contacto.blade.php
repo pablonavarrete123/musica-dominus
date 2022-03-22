@@ -20,8 +20,8 @@
               </span>
           </div>
           <div class="media-body align-self-center">
-            <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Phone Number</h3>
-            <p class="mb-0">+32 (0) 333 444 555</p>
+            <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">{{ __('messages.page_contacto_icon_title') }}</h3>
+            <p class="mb-0">{{ __('messages.page_contacto_icon_subtitle') }}</p>
           </div>
         </div>
       </div>

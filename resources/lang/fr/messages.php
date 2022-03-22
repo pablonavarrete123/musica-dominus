@@ -348,6 +348,10 @@ return [
    "page_contacto_label_number" => "Numéro",
    "page_contacto_label_message" => "Ton messsage",
    "page_contacto_label_send" => "Envoyer",
+   "page_contacto_icon_title"=>"",
+   "page_contacto_icon_subtitle"=>"",
+   "page_contacto_icon_title1"=>"",
+   "page_contacto_icon_subtitle1"=>"",
 
    //Donacion
    "page_donacion_title"=>"Don",
