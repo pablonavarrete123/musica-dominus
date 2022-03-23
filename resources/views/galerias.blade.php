@@ -96,7 +96,7 @@
 
           </a>
     
-      <div class="g-pa-25">
+      <div class="g-pa-25 galerias">
       <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Cristiana Adventista - Doce Tribus</h5>
       </div>
     </article>
@@ -144,7 +144,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-2" data-src="assets/img/02 - Comunidad Guaranis cerca de Trinidad/toujours l'air triste...-min.JPG" data-caption="Comunidad Guaranis cerca de Trinidad">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Guaranis cerca de Trinidad</h5>
   </div>
 
@@ -183,7 +183,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-3" data-src="assets/img/03 - Parque Trinidad - Jesuitas/vestige de chemin de croix-min.JPG" data-caption="Parque Trinidad - Jesuitas">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Parque Trinidad - Jesuitas</h5>
   </div>
 
@@ -222,7 +222,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-4" data-src="assets/img/04 - Escuela Allegretto - Santa Rita Paraguay/vue remorque de haut-min.JPG" data-caption="Escuela Allegretto - Santa Rita Paraguay">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Escuela Allegretto - Santa Rita Paraguay</h5>
   </div>
 </article>
@@ -302,7 +302,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-5" data-src="assets/img/05 - Santa Barbara - Colombia/Santa Barbara Marie Luz 100.jpg" data-caption="Santa Barbara - Colombia">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Santa Barbara - Colombia</h5>
   </div>
 </article>
@@ -338,7 +338,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-6" data-src="assets/img/06 - Casa de los Frayas - Rio e Janeiro Brasil/noche en rio 012.JPG" data-caption="Casa de los Frayas - Rio e Janeiro Brasil">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Casa de los Frayas - Rio e Janeiro Brasil</h5>
   </div>
 </article>
@@ -380,7 +380,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-7" data-src="assets/img/07 - Comunidad Luterana Bautista de Sao Luis - Maranhao Brasil/brésil par la route 038.JPG" data-caption="Comunidad Luterana Bautista de Sao Luis">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Luterana Bautista de Sao Luis</h5>
   </div>
 </article>
@@ -426,7 +426,7 @@
       <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-8" data-src="assets/img/08 - Belem Rio Amazona - Brasil/fait chaud sans la clim.JPG" data-caption="Belem Rio Amazona - Brasil">
       </a>
 
-  <div class="g-pa-25">
+  <div class="g-pa-25 galerias">
   <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Belem Rio Amazona - Brasil</h5>
   </div>
 </article>
@@ -467,7 +467,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-9" data-src="assets/img/09 - Guyana/Guyana 038.JPG" data-caption="Guyana">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Guyana</h5>
         </div>
       </article>
@@ -495,7 +495,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-10" data-src="assets/img/10 - Escuela Indigena Santa Elena - Uairen Venezuela/Santa Elena de Uairen 020.JPG" data-caption="Escuela Indigena Santa Elena - Uairen Venezuela">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Escuela Indigena Santa Elena - Uairen Venezuela</h5>
         </div>
       </article>
@@ -517,7 +517,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-11" data-src="assets/img/11 - San Feliz - Venezuela/San Felix - Puerto Ordaz 019.JPG" data-caption="San Feliz - Venezuela">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">San Feliz - Venezuela</h5>
         </div>
       </article>
@@ -545,7 +545,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-12" data-src="assets/img/12 - Cruzando el Perú/dernier voyage Chile Argentina Bolivie Peru 048.JPG" data-caption="Cruzando el Perú">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Cruzando el Perú</h5>
         </div>
       </article>
@@ -609,7 +609,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-13" data-src="assets/img/13 - Comunidad Ariaspamba - Ecuador/mariella 004.JPG" data-caption="Comunidad Ariaspamba - Ecuador">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Ariaspamba - Ecuador</h5>
         </div>
       </article>
@@ -683,7 +683,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-14" data-src="assets/img/14 - Comunidad Nu Yavale de Colombia/vue famille.JPG" data-caption="Comunidad Nu Yavale de Colombia">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Nu Yavale de Colombia</h5>
         </div>
       </article>
@@ -709,7 +709,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-15" data-src="assets/img/15 - Puerto Varas Chile/puerto varas 056.JPG" data-caption="Puerto Varas Chile">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Puerto Varas Chile</h5>
         </div>
       </article>
@@ -737,7 +737,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-16" data-src="assets/img/16 - Caballos del Valle de Azapa/piano et cha 018.JPG" data-caption="Caballos del Valle de Azapa">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Caballos del Valle de Azapa</h5>
         </div>
       </article>

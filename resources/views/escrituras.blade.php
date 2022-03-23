@@ -20,7 +20,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto1.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto1.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -48,7 +48,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto2.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto2.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -75,7 +75,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto3.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto3.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -102,7 +102,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto4.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto4.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -129,7 +129,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto5.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto5.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -156,7 +156,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/vincent2.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/vincent2.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 

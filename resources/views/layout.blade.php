@@ -52,12 +52,12 @@
 
 
     <!-- Header -->
-    <header id="js-header" class="u-header u-header--static--lg u-header--show-hide--lg u-header--change-appearance--lg" data-header-fix-moment="500" data-header-fix-effect="slide">
+    <header id="js-header" class="u-header u-header--static--lg u-header--show-hide--lg u-header--change-appearance--lg u-shadow-v18" data-header-fix-moment="500" data-header-fix-effect="slide">
       <div class="u-header__section u-header__section--light g-bg-white g-transition-0_3 g-py-10 g-py-0--lg" data-header-fix-moment-classes="u-shadow-v18">
         <nav class="js-mega-menu navbar navbar-expand-lg py-0">
           <div class="container">
             <!-- Responsive Toggle Button -->
-            <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+            <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-right-0" style="top: -5px;" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
               <span class="hamburger hamburger--slider">
             <span class="hamburger-box">
               <span class="hamburger-inner"></span>
@@ -114,9 +114,9 @@
                         {{ __('messages.nav_lang') }}
                       </button>
                       <div class="dropdown-menu">
-                        <a class="dropdown-item" href="{{ url('locale/en')}}"><img src="assets/img/us.png" width="30px" height="20x"> English</a>
-                        <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x"> Français</a>
-                        <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x"> Español</a>
+                        <a class="dropdown-item" href="{{ url('locale/en')}}"><img src="assets/img/us.png" width="30px" height="20x">&nbsp; English</a>
+                        <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x">&nbsp; Français</a>
+                        <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x">&nbsp; Español</a>
                        <!--  <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> Deutsch</a>
                         <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Português</a>-->
                       </div>

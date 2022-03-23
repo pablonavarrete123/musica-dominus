@@ -1,1 +1,18 @@
 /* Add here all your css styles (customizations) */
+
+.images-banner{
+		display: block !important;
+	}
+
+@media (min-width: 992px) {
+	.galerias{
+		min-height: 130px;
+	}
+	
+}
+
+@media (max-width: 1539px){
+	.images-banner{
+		display: none !important;
+	}
+}

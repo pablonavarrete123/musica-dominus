@@ -16,14 +16,14 @@
              
 
               <!-- LAYER NR. 1 -->
-              <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-3238-layer-4" data-x="['left','left','left','left']" data-hoffset="['250','-200','-371','-416']" data-y="['top','top','top','top']" data-voffset="['200','-135','-180','-203']" data-width="none"
+              <div class="tp-caption tp-resizeme rs-parallaxlevel-8 images-banner" id="slide-3238-layer-4" data-x="['left','left','left','left']" data-hoffset="['250','-200','-371','-416']" data-y="['top','top','top','top']" data-voffset="['200','-135','-180','-203']" data-width="none"
               data-height="none" data-whitespace="nowrap" data-type="image" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"x:left;rZ:-90deg;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
               data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;border-width:0px;">
                 <img src="assets/img/portada3.jpg" alt="" data-ww="['350px','650px','650px','650px']" data-hh="['350px','500px','500px','500px']" width="350" height="350" style="border-radius: 50%; border:5px solid #ffffff24;">
               </div>
 
               <!-- LAYER NR. 2 -->
-              <div class="tp-caption   tp-resizeme rs-parallaxlevel-9" id="slide-3238-layer-5" data-x="['right','right','right','right']" data-hoffset="['200','30','-70','-144']" data-y="['top','top','top','top']" data-voffset="['530','-204','-233','-261']" data-width="none"
+              <div class="tp-caption tp-resizeme rs-parallaxlevel-9 images-banner" id="slide-3238-layer-5" data-x="['right','right','right','right']" data-hoffset="['200','30','-70','-144']" data-y="['top','top','top','top']" data-voffset="['530','-204','-233','-261']" data-width="none"
               data-height="none" data-whitespace="nowrap" data-type="image" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"x:right;y:-500px;rZ:90deg;","speed":2500,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
               data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;border-width:0px;">
                 <img src="assets/img/vincent1.jpg" alt="" data-ww="['250px','700px','700px','700px']" data-hh="['250px','600px','600px','600px']" width="250" height="250" style="border-radius: 50%; border:5px solid #ffffff24;">
@@ -31,7 +31,7 @@
 
 
                <!-- LAYER NR. 3 -->
-              <div class="tp-caption   tp-resizeme rs-parallaxlevel-10" id="slide-3238-layer-6" data-x="['right','right','right','right']" data-hoffset="['350','30','-70','-144']" data-y="['top','top','top','top']" data-voffset="['30','-204','-233','-261']" data-width="none"
+              <div class="tp-caption tp-resizeme rs-parallaxlevel-10 images-banner" id="slide-3238-layer-6" data-x="['right','right','right','right']" data-hoffset="['350','30','-70','-144']" data-y="['top','top','top','top']" data-voffset="['30','-204','-233','-261']" data-width="none"
               data-height="none" data-whitespace="nowrap" data-type="image" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"x:right;y:-500px;rZ:90deg;","speed":2500,"to":"o:1;","delay":1500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
               data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;border-width:0px;">
                 <img src="assets/img/portada2.jpg" alt="" data-ww="['250px','700px','700px','700px']" data-hh="['250px','600px','600px','600px']" width="250" height="250" style="border-radius: 50%; border:5px solid #ffffff24;">
@@ -57,7 +57,7 @@
               </div>
 
               <!-- LAYER NR. 13 -->
-              <div class="tp-caption   tp-resizeme rs-parallaxlevel-2" id="slide-3238-layer-2" data-x="['center','center','center','center']" data-hoffset="['-8','-8','-8','-8']" data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" data-fontsize="['20','20','20','20']"
+              <div class="tp-caption   tp-resizeme rs-parallaxlevel-2" id="slide-3238-layer-2" data-x="['center','center','center','center']" data-hoffset="['-8','-8','-8','-8']" data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" data-fontsize="['20','20','25','25']"
               data-lineheight="['20','20','20','30']" data-width="['none','none','none','360']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;rX:45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
               data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 17; white-space: nowrap; font-size: 20px; line-height: 20px; font-weight: 400; color: #fff; border-width: 0;">{{ __('messages.page_home_banner_p3') }}
               </div>
@@ -215,7 +215,7 @@
   
                 </a>
           
-            <div class="g-pa-25">
+            <div class="g-pa-25 galerias">
             <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Cristiana Adventista - Doce Tribus</h5>
             </div>
           </article>
@@ -263,7 +263,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-2" data-src="assets/img/02 - Comunidad Guaranis cerca de Trinidad/toujours l'air triste...-min.JPG" data-caption="Comunidad Guaranis cerca de Trinidad">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Guaranis cerca de Trinidad</h5>
         </div>
 
@@ -302,7 +302,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-3" data-src="assets/img/03 - Parque Trinidad - Jesuitas/vestige de chemin de croix-min.JPG" data-caption="Parque Trinidad - Jesuitas">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Parque Trinidad - Jesuitas</h5>
         </div>
 
@@ -341,7 +341,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-4" data-src="assets/img/04 - Escuela Allegretto - Santa Rita Paraguay/vue remorque de haut-min.JPG" data-caption="Escuela Allegretto - Santa Rita Paraguay">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Escuela Allegretto - Santa Rita Paraguay</h5>
         </div>
       </article>
@@ -421,7 +421,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-5" data-src="assets/img/05 - Santa Barbara - Colombia/Santa Barbara Marie Luz 100.jpg" data-caption="Santa Barbara - Colombia">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Santa Barbara - Colombia</h5>
         </div>
       </article>
@@ -457,7 +457,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-6" data-src="assets/img/06 - Casa de los Frayas - Rio e Janeiro Brasil/noche en rio 012.JPG" data-caption="Casa de los Frayas - Rio e Janeiro Brasil">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Casa de los Frayas - Rio e Janeiro Brasil</h5>
         </div>
       </article>
@@ -499,7 +499,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-7" data-src="assets/img/07 - Comunidad Luterana Bautista de Sao Luis - Maranhao Brasil/brésil par la route 038.JPG" data-caption="Comunidad Luterana Bautista de Sao Luis">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Comunidad Luterana Bautista de Sao Luis</h5>
         </div>
       </article>
@@ -545,7 +545,7 @@
             <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-8" data-src="assets/img/08 - Belem Rio Amazona - Brasil/fait chaud sans la clim.JPG" data-caption="Belem Rio Amazona - Brasil">
             </a>
       
-        <div class="g-pa-25">
+        <div class="g-pa-25 galerias">
         <h5 class="g-color-main g-color-primary--hover g-text-underline--none--hover">Belem Rio Amazona - Brasil</h5>
         </div>
       </article>
@@ -584,7 +584,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto1.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto1.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -612,7 +612,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto2.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto2.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 
@@ -639,7 +639,7 @@
     <div class="row g-mx-5--sm g-mb-30">
       <!-- Article Image -->
       <div class="col-sm-3 g-px-0--sm">
-        <div class="g-height-200 g-bg-size-cover" style="background-image: url(assets/img/texto3.jpg); -webkit-filter: grayscale(100%);"></div>
+        <div class="g-height-200 g-bg-size-cover g-rounded-4" style="background-image: url(assets/img/texto3.jpg); -webkit-filter: grayscale(100%);"></div>
       </div>
       <!-- End Article Image -->
 

@@ -25923,8 +25923,11 @@ img.u-block-hover__main--magnifier-top-left {
 }
 
 .dropdown-menu {
-  min-width: 15rem;
+  min-width: 9rem;
   padding: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 22px;
 }
 
 .dropdown-toggle::before {

@@ -48,7 +48,7 @@
           <div class="row">
             <div class="col-md-6 form-group g-mb-20">
               <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_firstname') }}</label>
-              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15  {{ $errors->has('name') ? 'error' : '' }}" value="{{ old('name') }}" type="text" name="name" id="name" placeholder="">
+              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15  {{ $errors->has('name') ? 'error' : '' }}" value="{{ old('name') }}" type="text" name="name" id="name" placeholder="" required>
               @if ($errors->has('name'))
               <div class="error">
                   {{ $errors->first('name') }}
@@ -58,7 +58,7 @@
 
             <div class="col-md-6 form-group g-mb-20">
               <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_lastname') }}</label>
-              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('lastname') ? 'error' : '' }}" value="{{ old('lastname') }}" type="text" name="lastname" id="lastname" placeholder="">
+              <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('lastname') ? 'error' : '' }}" value="{{ old('lastname') }}" type="text" name="lastname" id="lastname" placeholder="" required>
               @if ($errors->has('lastname'))
               <div class="error">
                   {{ $errors->first('name') }}
@@ -69,7 +69,7 @@
 
           <div class="g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_email') }}</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('email') ? 'error' : '' }}" value="{{ old('email') }}" type="email" name="email" id="email" placeholder="">
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('email') ? 'error' : '' }}" value="{{ old('email') }}" type="email" name="email" id="email" placeholder="" required>
             @if ($errors->has('email'))
               <div class="error">
                   {{ $errors->first('email') }}
@@ -79,7 +79,7 @@
 
           <div class="g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_number') }}</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('phone') ? 'error' : '' }}" value="{{ old('phone') }}" type="tel" id="phone" name="phone" placeholder="">
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15 {{ $errors->has('phone') ? 'error' : '' }}" value="{{ old('phone') }}" type="tel" id="phone" name="phone" placeholder="" required>
             @if ($errors->has('phone'))
               <div class="error">
                   {{ $errors->first('phone') }}
@@ -92,7 +92,7 @@
       <div class="col-md-7">
         <div class="g-mb-40">
           <label class="g-color-gray-dark-v2 g-font-size-13">{{ __('messages.page_contacto_label_message') }}</label>
-          <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15 {{ $errors->has('message') ? 'error' : '' }}" rows="12" placeholder="" name="message" id="message">{{ old('message') }}</textarea>
+          <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15 {{ $errors->has('message') ? 'error' : '' }}" rows="12" placeholder="" name="message" id="message" required>{{ old('message') }}</textarea>
           @if ($errors->has('message'))
               <div class="error">
                   {{ $errors->first('message') }}
