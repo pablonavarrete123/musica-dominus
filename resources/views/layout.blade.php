@@ -151,13 +151,13 @@
     <!-- Footer -->
 <footer class="container g-pt-100 g-pb-70">
   <div class="row">
-    <div class="col-md-3 text-center text-md-left g-mb-30">
+    <div class="col-md-2 text-center text-md-left g-mb-30">
     
 
 
     </div>
 
-    <div class="col-md-6 text-center g-mb-30">
+    <div class="col-md-8 text-center g-mb-30">
       
 
       <!-- Footer - List -->
@@ -177,10 +177,10 @@
       </ul>
       <!-- End Footer - List -->
 
-      <span class="d-block g-color-gray-dark-v5 g-font-size-13 mb-4">{{ __('messages.footer_copyright') }}</span>
+      <span class="d-block g-color-gray-dark-v5 g-font-size-13 mb-4">{{ __('messages.footer_copyright') }}<a href="https://www.codde.cl/" target="_blank">{{ __('messages.footer_copyright_link') }}</a></span>
     </div>
 
-    <div class="col-md-3 text-center g-mb-30">
+    <div class="col-md-2 text-center g-mb-30">
      
     </div>
   </div>

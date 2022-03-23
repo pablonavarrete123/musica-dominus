@@ -28,6 +28,22 @@ return [
    "page_home_title_gallery" => "Galerías",
    "page_home_subtitle_gallery" => "He capturado gran parte de los momentos maravillosos que he vivenciado en esta hermosa aventura",
    "page_home_more_gallery" => "Ver más Galerías",
+   "page_gallery_caption_p1" => "Comunidad cristiana Adventista doce tribus en el campo cerca de General Rodriguez, provincia de Buenos Aires, Argentina.  Donde fui profesor de inglés. Luego en Libertador San Martin en una ciudad protestante adventista. Me invitaron en el campo de los conquistadores  Fue una experiencia de profesor de inglés de un mes",
+   "page_gallery_caption_p2" => "A partir de ahora pertenece a mi experiencia dentro de la comunidad guaranis cerca de Trinidad, provincia de Itapua, Paraguay. En los capitulos, esta en Mis experiencias como profesor voluntario. Se ve el jefe de la tribu, Cristina la profesora de canto, los niños pies pelado en la tierra, miserable vida. Son los hermanos adventistas que me llevaron en esa comunidad como profesor de música con la soprano de Asuncion. Fue invitado a quedarme en la caravana antigua, ese remlque, por el oficio de turismo del Paraguay, como escritor reportero francés. Luego como profesor de inglés voluntario, en la escuela pública de Trinidad.",
+   "page_gallery_caption_p3" => "Parque Trinidad - invitado por el alcalde de Trinidad dentro del antigua templo al aire libre. Construido por los jesuitas en tiempo de los conquistadores. En ese espacio se sacaron las piedras de las misiones jesuiticas de Trinidad. Recuerde que fui profesor de ingles y de musica en la experiencia de los Guaranis en ese comunidad de Trinidad.",
+   "page_gallery_caption_p4" => "Un profesor de piano paraguayo no tenía ida y poco recurso para su proyecto. Yo lo ayudo y hemos creado Allegretto, escuela de piano. Del profe de piano de la escuelita Allegretto y de la iglesia de Santa Rita adonde he tocado al organo con el coro.",
+   "page_gallery_caption_p5" => "Finca del café en Santa Barbara Colombia. Profesor de ingles y de estudia de la biblia a comunidad de Santa Barbara",
+   "page_gallery_caption_p6" => "Experiencia toca de assis casa de los frayes en Rio de Janeiro, fue cocinero volontario a la gente y ninos que anda en las calles de rio. Junto con los franciscanos nosotros somos los laics que ayudaba lee el texto mandado.",
+   "page_gallery_caption_p7" => "Dentro de la comunidad luteriana baptista de Sao Luis, Maranhao, Brasil profesor de ingles y de estudio de biblia.",
+   "page_gallery_caption_p8" => "De Belem Brasil, balsa sobre el rio Amazona con los camiones en la balsa, un noche y dos dias para llegar a Amapa, norte de Brasil. Fue en la cabina con el piloto se ve cabanas de los indigenos yekwanas.",
+   "page_gallery_caption_p9" => "Dentro de la Guyana, entre Venezuela y Brasil, dentro de la comunidad con pastor Ruth.",
+   "page_gallery_caption_p10" => "Escuela indigena de santa elena de uairen. En Venezuela despues de 300 km de pista desde frontera de Brasil dentro de la gran savana de Venezuela. Fue profesor de ingles a los jovenes indigenos. grace problema de alcohol de aguardiente",
+   "page_gallery_caption_p11" => "San felix puerto ordaz Venezuela, adonde me robaron las 4 ruedas del remolque, dentro de la paroquia.",
+   "page_gallery_caption_p12" => "Cruzando el Peru, lago Titicaca y Acapulco, Peru.",
+   "page_gallery_caption_p13" => "Comunidad de ariaspamba Ecuador, 4 meses pasado dentro de ese comunidad quichwas, familia de musicos, profesor de ingles a los ninos todos los dias y profe de piano a dos de mis alumnos ninos quichwas. Los quichwas del Peru y Ecuador no soporte que se toman fotos de ellos por miedo que se roba el alma de las personas. Hay que respectar entonces... fotos lindas del volvan Cotacatchi al frente de mi vehiculo casita! ",
+   "page_gallery_caption_p14" => "Dentro de la comunidad Nu Yavale de Colombia. La comunidad MISAK alturas de Silvia, Cauca, Colombia fue profesor de ingles en escuela publica indigena durante unos meses.",
+   "page_gallery_caption_p15" => "Puerto Varas Chile, ayudando el sacerdote de la paroquia en el coro de la navidad",
+   "page_gallery_caption_p16" => "Los cavallos del valle de azapa meses en la empresa de olivos Bezma, invitado por el propietario para organizar conciertos entre los olivos de musica. Hubiera querido quedarme con mapuches en Chiloé, que me gusto mucho pero no he podido quedarme dentro de la comunidad catolicos de los jesuitas de Chiloé y me fue. Es el puno lo mas hacia el sur del continente sur de America: Chiloé. El punto lo mas al norte del continente norte Canada.",
 
    //body home write 
    "page_home_title_write" => "Mis Escritos",
@@ -338,9 +354,8 @@ return [
    "page_contacto_title" => "Contacto",
    "page_contacto_subtitle" => "no dudes en contactarme ",
    "page_contacto_label_firstname" => "Nombre",
-   "page_contacto_label_lastname" => "Apellido",
    "page_contacto_label_email" => "Correo electrónico",
-   "page_contacto_label_number" => "Número",
+   "page_contacto_label_number" => "Teléfono",
    "page_contacto_label_message" => "Tu mensaje",
    "page_contacto_label_send" => "Enviar",
    "page_contacto_icon_title"=>"",
@@ -359,6 +374,7 @@ return [
    //footer
    "footer_text" => "Necesitamos de tu apoyo en donación para que este proyecto siga Aportando al Mundo.",
    "footer_button" => "Apóyanos",
-   "footer_copyright" => "© Musica Dominus. 2022 Todos los derechos Reservados."
+   "footer_copyright" => "© Musica Dominus. 2022 Todos los derechos Reservados. Desarrollado por ",
+   "footer_copyright_link" => "Codde Soluciones"
 
 ];

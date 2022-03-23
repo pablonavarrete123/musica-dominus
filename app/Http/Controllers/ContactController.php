@@ -15,7 +15,6 @@ public function store(Request $request){
 
     $request->validate([
        'name'=>'required',
-       'lastname'=>'required',
        'email'=>'required|email',
        'phone'=>'required|regex:/^([0-9\s\-\+\(\)]*)$/|min:10',
        'message'=>'required'
@@ -24,7 +23,6 @@ public function store(Request $request){
          //  Send mail
          Mail::send('contact_email', array(
             'name' => $request->get('name'),
-            'lastname' => $request->get('lastname'),
             'email' => $request->get('email'),
             'phone' => $request->get('phone'),
             'msg' => $request->get('message'),

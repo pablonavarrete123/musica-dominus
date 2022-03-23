@@ -32,6 +32,22 @@ return [
    "page_home_subtitle_gallery" => "J'ai capturé une grande partie des merveilleux moments que j'ai vécus dans cette belle aventure",
    "page_home_subtitle_what" => "L'étude de la musique classique est le meilleur moyen, avec la prière, de pouvoir surmonter ces désagréments",
    "page_home_more_gallery" => "Voir plus d'album",
+   "page_gallery_caption_p1" => "Comunidad cristiana Adventista doce tribus à la campagne près de General Rodriguez, province de Buenos Aires, Argentine. Où j'étais professeur d'anglais. Puis à Libertador San Martin dans une ville adventiste protestante. J'ai été invité en el campo de los conquistadores, c'était une expérience de professeur d'anglais pendant un mois.",
+   "page_gallery_caption_p2" => "",
+   "page_gallery_caption_p3" => "",
+   "page_gallery_caption_p4" => "",
+   "page_gallery_caption_p5" => "",
+   "page_gallery_caption_p6" => "",
+   "page_gallery_caption_p7" => "",
+   "page_gallery_caption_p8" => "",
+   "page_gallery_caption_p9" => "",
+   "page_gallery_caption_p10" => "",
+   "page_gallery_caption_p11" => "",
+   "page_gallery_caption_p12" => "",
+   "page_gallery_caption_p13" => "",
+   "page_gallery_caption_p14" => "",
+   "page_gallery_caption_p15" => "",
+   "page_gallery_caption_p16" => "",
 
    //body home write
    "page_home_title_write" => "Mes écrits",
@@ -342,10 +358,9 @@ return [
    //Contacto 
    "page_contacto_title" => "Contact",
    "page_contacto_subtitle" => "N'hésite pas à me contacter",
-   "page_contacto_label_firstname" => "Prénom",
-   "page_contacto_label_lastname" => "Nom",
+   "page_contacto_label_firstname" => "Nom",
    "page_contacto_label_email" => "Courrier électronique",
-   "page_contacto_label_number" => "Numéro",
+   "page_contacto_label_number" => "Téléphone",
    "page_contacto_label_message" => "Ton messsage",
    "page_contacto_label_send" => "Envoyer",
    "page_contacto_icon_title"=>"",
@@ -364,7 +379,8 @@ return [
    //footer
    "footer_text" => "Nous avons besoin de votre soutien un don pour que ce projet continue d'exister.",
    "footer_button" => "Soutenez-nous",
-   "footer_copyright" => "© Musica Dominus. 2022 Tous droits réservés."
+   "footer_copyright" => "© Musica Dominus. 2022 Tous droits réservés. Développé par ",
+   "footer_copyright_link" => "Codde Soluciones"
 
 
 ];

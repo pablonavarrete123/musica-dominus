@@ -30,6 +30,22 @@ return [
     "page_home_subtitle_gallery" => "I captured many of the wonderful moments I experienced in this beautiful adventure",
     "page_home_subtitle_what" => "The study of classical music is the best way, with prayer, to be able to overcome these inconveniences",
     "page_home_more_gallery" => "See more album",
+    "page_gallery_caption_p1" => "",
+    "page_gallery_caption_p2" => "",
+    "page_gallery_caption_p3" => "",
+    "page_gallery_caption_p4" => "",
+    "page_gallery_caption_p5" => "",
+    "page_gallery_caption_p6" => "",
+    "page_gallery_caption_p7" => "",
+    "page_gallery_caption_p8" => "",
+    "page_gallery_caption_p9" => "",
+    "page_gallery_caption_p10" => "",
+    "page_gallery_caption_p11" => "",
+    "page_gallery_caption_p12" => "",
+    "page_gallery_caption_p13" => "",
+    "page_gallery_caption_p14" => "",
+    "page_gallery_caption_p15" => "",
+    "page_gallery_caption_p16" => "",
 
     //body home write
     "page_home_title_write" => "My writings",
@@ -343,8 +359,7 @@ return [
     //Contacto 
     "page_contacto_title" => "Contact",
     "page_contacto_subtitle" => "Feel free to contact",
-    "page_contacto_label_firstname" => "First name",
-    "page_contacto_label_lastname" => "Last name",
+    "page_contacto_label_firstname" => "Name",
     "page_contacto_label_email" => "Your email",
     "page_contacto_label_number" => "Phone number",
     "page_contacto_label_message" => "Your message",
@@ -366,6 +381,7 @@ return [
     //footer
     "footer_text" => "We need your support a donation to keep this project going.",
     "footer_button" => "Support us",
-    "footer_copyright" => "© Musica Dominus. 2022 All rights reserved.",
+    "footer_copyright" => "© Musica Dominus. 2022 All rights reserved. Developed by ",
+    "footer_copyright_link" => "Codde Soluciones"
 
 ];
