@@ -358,7 +358,7 @@ return [
 
     //Contacto 
     "page_contacto_title" => "Contact",
-    "page_contacto_subtitle" => "Feel free to contact",
+    "page_contacto_subtitle" => "If you want to know more about my project Musica Dominus, do not hesitate to contact me.",
     "page_contacto_label_firstname" => "Name",
     "page_contacto_label_email" => "Your email",
     "page_contacto_label_number" => "Phone number",

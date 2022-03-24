@@ -134,7 +134,7 @@
       </div>
 
       <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-3 g-mb-30">
           <!-- Article -->
           <article class="u-shadow-v1-4">
       
