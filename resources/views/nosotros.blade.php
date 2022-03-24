@@ -119,15 +119,11 @@
 
 
           </p>
-
         </div>
-
       </div>
-      
     </div>
     </section>
     <!-- End News Block -->
-
     <script>
   window.onload = function(){
     document.getElementById("op2").classList.add('active');

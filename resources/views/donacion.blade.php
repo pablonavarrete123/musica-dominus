@@ -22,7 +22,7 @@
 
     <div class="col-md-5 align-self-center g-mb-30">
       <!-- Icon Blocks -->
-      <div class="g-mb-30">
+      <div class="g-mb-50">
         <div class="media mb-2">
           <div class="d-flex align-self-center mr-3">
             <span class="u-icon-v1 g-color-primary g-font-size-26">

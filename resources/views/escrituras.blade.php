@@ -31,7 +31,6 @@
             <a class="u-link-v5 g-color-black g-color-primary--hover" href="prefacio">{{ __('messages.page_home_title_p0_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>{{ __('messages.page_home_date_p0_write') }}</time>
           </p>
 
           <p>
@@ -59,7 +58,6 @@
             <a class="u-link-v5 g-color-black g-color-primary--hover" href="introduccion"> {{ __('messages.page_home_title_p1_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time> {{ __('messages.page_home_date_p1_write') }}</time>
           </p>
 
           <p>{{ __('messages.page_home_body_p1_write') }}</p>
@@ -86,7 +84,6 @@
             <a class="u-link-v5 g-color-black g-color-primary--hover" href="significado">I{{ __('messages.page_home_title_p2_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>{{ __('messages.page_home_date_p2_write') }}</time>
           </p>
 
           <p>{{ __('messages.page_home_body_p2_write') }}</p>
@@ -113,7 +110,6 @@
             <a class="u-link-v5 g-color-black g-color-primary--hover" href="razones">{{ __('messages.page_home_title_p3_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>{{ __('messages.page_home_date_p3_write') }}</time>
           </p>
 
           <p>{{ __('messages.page_home_body_p3_write') }}</p>
@@ -140,7 +136,6 @@
             <a class="u-link-v5 g-color-black g-color-primary--hover" href="musicotherapie">{{ __('messages.page_home_title_p4_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>{{ __('messages.page_home_date_p4_write') }}</time>
           </p>
 
           <p>{{ __('messages.page_home_body_p4_write') }}</p>
@@ -167,7 +162,6 @@
             <a class="u-link-v5 g-color-black g-color-primary--hover" href="micamino">{{ __('messages.page_home_title_p5_write') }}</a>
           </h3>
           <p class="small g-color-primary">
-            <time>{{ __('messages.page_home_date_p5_write') }}</time>
           </p>
 
           <p>{{ __('messages.page_home_body_p5_write') }}</p>
