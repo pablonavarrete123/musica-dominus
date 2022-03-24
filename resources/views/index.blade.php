@@ -19,7 +19,7 @@
               <div class="tp-caption tp-resizeme rs-parallaxlevel-8 images-banner" id="slide-3238-layer-4" data-x="['left','left','left','left']" data-hoffset="['250','-200','-371','-416']" data-y="['top','top','top','top']" data-voffset="['200','-135','-180','-203']" data-width="none"
               data-height="none" data-whitespace="nowrap" data-type="image" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"x:left;rZ:-90deg;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
               data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;border-width:0px;">
-                <img src="assets/img/portada3.jpg" alt="" data-ww="['350px','650px','650px','650px']" data-hh="['350px','500px','500px','500px']" width="350" height="350" style="border-radius: 50%; border:5px solid #ffffff24;">
+                <img src="assets/img/portada3.jpg" alt="" data-ww="['250px','250px','250px','250px']" data-hh="['250px','250px','250px','250px']" style="border-radius: 50%; border:5px solid #ffffff24;">
               </div>
 
               <!-- LAYER NR. 2 -->
