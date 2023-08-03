@@ -63,6 +63,7 @@ Route::get('/micamino', function () {
 
 Route::get('/contacto', [ContactController::class, 'index'])->name('contact.index');
 Route::post('/contacto', [ContactController::class, 'store'])->name('contact.store');
+Route::get('/reload-captcha', [ContactController::class, 'reloadCaptcha']);
 
 Route::get('/donacion', function () {
     return view('donacion');

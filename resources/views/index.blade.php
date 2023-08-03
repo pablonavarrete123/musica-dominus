@@ -5,7 +5,7 @@
     <div class="g-overflow-hidden">
       <div id="rev_slider_1174_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
         <!-- START REVOLUTION SLIDER 5.4.1 fullscreen mode -->
-        <div id="rev_slider_1174_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
+        <div id="rev_slider_1174_1" class="rev_slider fullscreenbanner" style="display:none;filter: brightness(80%);" data-version="5.4.1">
           <ul>
             <!-- SLIDE  -->
             <li data-index="rs-3238" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="500" data-rotate="0" data-saveperformance="off" data-title="Slide"
@@ -97,15 +97,38 @@
       <div class="row">
         <div class="col-lg-8 g-mb-30">
 
-          <p style="padding-top: 30px;">{{ __('messages.page_home_what_p1') }}<br><br>
-          
-          <b>{{ __('messages.page_home_what_p2_b') }}</b> {{ __('messages.page_home_what_p2') }}<br><br>
+          <p style="padding-top: 30px;">{{ __('messages.page_home_what_p1') }}</p>
+            <p>{{ __('messages.page_home_what_p2') }}</p>
+            <p><i>{{ __('messages.page_home_what_p2_i') }}{{ __('messages.page_home_what_p2_bis') }}</i></p>
+            <p>{{ __('messages.page_home_what_p3') }}</p>
+            <p><i>{{ __('messages.page_home_what_p4_i') }}</i>{{ __('messages.page_home_what_p4') }}</p>
+            <p>{{ __('messages.page_home_what_p5') }}</p>
+            <p>{{ __('messages.page_home_what_p6') }}</p>
+            <p>{{ __('messages.page_home_what_p7') }}</p>
+            <p>{{ __('messages.page_home_what_p8') }}</p>
+            <p>{{ __('messages.page_home_what_p9') }}<i>{{ __('messages.page_home_what_p9_i') }}</i>{{ __('messages.page_home_what_p9_bis') }}</p>
+            <p>{{ __('messages.page_home_what_p10') }}</p>
+            <p>{{ __('messages.page_home_what_p11') }}</p>
+            <p>{{ __('messages.page_home_what_p12') }}</p>
+            <p>{{ __('messages.page_home_what_p13') }}</p>
+            <p>{{ __('messages.page_home_what_p14') }}</p>
+            <p>{{ __('messages.page_home_what_p15') }}</p>
+            <p>{{ __('messages.page_home_what_p16') }}</p>
+            <p>{{ __('messages.page_home_what_p17') }}<i>{{ __('messages.page_home_what_p17_i') }}</i></p>
+            <p>{{ __('messages.page_home_what_p18') }}</p>
+            <p>{{ __('messages.page_home_what_p19') }}</p>
+            <p><i>{{ __('messages.page_home_what_p20') }}</i></p>
+            <p>{{ __('messages.page_home_what_p21') }}</p>
 
-          {{ __('messages.page_home_what_p3') }}</p>
+          
+          
+          
+
+          
     
         </div>
 
-        <div class="col-lg-4 g-mb-30">
+        <div class="col-lg-4 d-block m-auto">
           
           <img src="assets/img/intro2.jpg" class="img-fluid u-shadow-v29" style="border-radius: 50%; margin-top: 44px; border: 5px solid #dedede;" />
         </div>
