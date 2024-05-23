@@ -69,7 +69,7 @@ return [
    "page_gallery_caption_p15" => "Puerto Varas Chile, ayudando el sacerdote de la parroquia en el coro de la navidad",
    "page_gallery_caption_p16" => "Los caballos del Valle de Azapa meses en la empresa de olivos Bezma, invitado por el propietario para organizar conciertos entre los olivos de musica. Hubiera querido quedarme con mapuches en Chiloé, que me gusto mucho pero no he podido quedarme dentro de la comunidad catolicos de los jesuitas de Chiloé y me fui.",
 
-   //body home write 
+   //body home write
    "page_home_title_write" => "Mis Escritos",
    "page_home_subtitle_write" => "Las Aventuras de este hermoso proyecto Musica Dominus, me ha inspirado a escribir y narrar experiencias y vivencias.",
    "page_home_title_p0_write" => "Prefacio (Avant-Propos)",
@@ -172,7 +172,7 @@ return [
 
    // II significado
    "page_detalle_write_significado_title" => "II. Significado espiritual de ",
-   "page_detalle_write_significado_subtitle" => "Musica Dominus",
+   "page_detalle_write_significado_subtitle" => "Musica Dominus ",
    "page_detalle_write_significado_p1" => "Si recibí una educación católica tradicional, reconozco que realmente no tuve convicciones muy profundas en mi juventud. Respeté y seguí esta religión enseñada por mi familia. Mi abuela era músico, ella me llevó a los concursos Reina Isabel en Bruselas, me sorprendieron los conciertos para piano de Ludwig von Beethoven interpretados por Emil Gilels, los nocturnos y polonesas de Frederic Chopin interpretados por Mauricio Polini y otros de Tchaikovsky, interpretados con énfasis por este pianista ruso cuyo nombre he olvidado. Traté de reproducir estos sonidos extraordinarios en el piano negro de la mansión de mi abuelo. Descubrí los acordes que resonaban gracias a los altos techos de esta residencia de piedra con sus columnas de mármol.",
    "page_detalle_write_significado_p2" => "Fue mi tía: la Hermana Benedictina Colombes del Priorato de Loppem en Brujas quien más me ayudó a entender la espiritualidad cristiana. Sorprendido, descubrí su retrato colgado en la pared de la pequeña sala del monasterio La Rencontre, en Mandirituba, un pequeño pueblo cerca de Curitiba, en el sur de Brasil. Fue ella, con la ayuda de otras cinco hermanas, quienes lo fundaron. Asistí a los servicios, especialmente a los de la mañana. La primera: el oficio de lectura comenzaba a las 4:30 am Los oscuros vitrales a esta hora de la noche, parecían despertar lentamente con las primeras luces del día penetrando. Cerré los ojos, embriagado por los cantos de las monjas. sopranos acompañadas del órgano. La doble puerta blanca de la entrada abierta de par en par, parecía una invitación a los ángeles escondidos en el manto negro de la noche oscura. Guardo el recuerdo de esos momentos de gran plenitud provocados por la serenidad del lugar cerrado, que suavemente bañado por la luz del sol naciente sobre el campo de Mato Grosso. Pude vivir en Brasil un viaje espiritual en los monasterios benedictinos de Río de Janeiro y Salvador de Bahía acompañando a los monjes en sus cantos gregorianos acompañados de los grandes órganos.",
    "page_detalle_write_significado_p3" => "Había encontrado esta experiencia con mi padre durante las visitas a las catedrales de Chartres, Orleans o Amiens, la cuna de mi familia, señores de Lozerie. Nada aprecié más que caminar solo con él, un poco antes de la entrada al público, escuchando el sonido de nuestros pasos que resonaban en los pisos helados de estas inmensas naves, en medio de estas piedras de sillería que aún vibraban con la historia de su pasado.",
@@ -299,7 +299,7 @@ return [
    "page_detalle_write_razones_p55" => "Para conocer a este genio excepcional, empieza por el Librito de Anna Magdalena, los Pequeños Preludios y Fugas, y las Invenciones. Y, salvo que tengas muy buen nivel de piano, puedes escuchar el crema: 'el teclado bien temperado' y 'las variaciones Goldberg'.",
 
 
-   // IV musicotherapie      
+   // IV musicotherapie
    "page_detalle_write_musicotherapie_title" => "IV. Musicoterapia y psicología.",
    "page_detalle_write_musicotherapie_p1" => "Esta información nos la proporcionaron periódicos de los Estados Unidos.",
    "page_detalle_write_musicotherapie_p2" => "Media hora de música clásica al día: es obligatorio para todos los niños en Florida, Estados Unidos. Apodada la Ley de Bebés de Beethoven, la Ley 660 no solo pretende ayudar a los más pequeños a conciliar el sueño a la hora de la siesta, también pretende estimular su desarrollo cerebral de forma armoniosa...",
@@ -312,7 +312,7 @@ return [
    "page_detalle_write_musicotherapie_p9" => "La musicoterapia consiste en el uso juicioso de la música como una HERRAMIENTA TERAPÉUTICA básica, para restaurar, mantener o mejorar la salud mental, física y emocional de una persona. A través de actividades musicales desarrolladas por un o una musicoterapeuta calificado, Según las necesidades del participante, el niño o adulto podrá desarrollar uno o varios aspectos específicos: Concentración, comunicación, lenguaje, motricidad, memoria, habilidades sociales, gestión emocional, creatividad, son elementos que se pueden mejorar a lo largo del curso. de las sesiones, que son individuales o en pequeños grupos.",
 
 
-   // V micamino      
+   // V micamino
    "page_detalle_write_micamino_title" => "V. Mi viaje como maestro voluntario en comunidades nativas americanas",
    "page_detalle_write_micamino_p1" => "En América del Norte, me fascinaron los sioux, los navajos, en las grandes llanuras, los cheyenne en el sureste, los apaches en el suroeste. Pude visitar reservas, intercambiar ideas con muchos de ellos. Hablan tantos dialectos diferentes como toda la población amerindia de Colombia.",
    "page_detalle_write_micamino_p2" => "A diferencia del turista viajero en avión que conoce mucho más las capitales de los países que visita, estando cerca el aeropuerto y los cómodos hoteles internacionales; en lo personal, humilde viajero por carretera, sin horarios, sin constricciones, sin entender ni del todo los objetivos de los viajes organizados, poco a poco comencé a sentirme invadido por este suave salvajismo primitivo, me sentía más cercano a los indígenas que a la mayoría de personas blancas de estos pequeños países de Centroamérica, con ellos aprendí a vivir de la manera más simple posible, en contacto con la naturaleza y tratando de saborearlo todo, especialmente el silencio. No me gusta hablar de pobreza, sino de vivir de los productos frescos de la tierra, al ritmo de las estaciones, de sus buenas o malas cosechas. ¡las condiciones y los caprichos del clima dan ganas de clamar justicia!",
@@ -374,7 +374,7 @@ return [
    "page_detalle_write_backhome_bt" => "Volver al inicio",
 
 
-   //Contacto 
+   //Contacto
    "page_contacto_title" => "Contacto",
    "page_contacto_subtitle" => "Si quieres saber mas de mi proyecto de Musica Dominos, no dudes en contactarme.",
    "page_contacto_label_firstname" => "Nombre",

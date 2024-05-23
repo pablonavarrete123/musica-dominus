@@ -80,7 +80,7 @@ return [
    "page_home_body_p0_write" => "Si la musique est une forme de prière, toute harmonie est une forme de silence. On s’en rends si bien compte quand un bruit éclate dans la ferveur d’un soir d’été en Amazonie. Toute la nature était vibrante, toute vie carillonnait dans l’ivresse empourprée de la lumière tamisée par la cime des arbres. Les rayons de lumière qui les traversaient, célébraient en antiennes de feu l’extase du soleil…Et soudain des cris perçants, ceux des singes hurleurs ont rompu toute cette incantation. Une chamaillerie, une dispute, un cri d’amour nous a révélé la majesté du silence.",
    "page_home_title_p1_write" => "I. Introduction",
    "page_home_date_p1_write" => "27 Avril 2016",
-   "page_home_body_p1_write" => "Voyager n’est pas une réaction de révolte du monde mais plus le besoin de respirer! Il semble même qu’un voyage ne se décide pas de suite ou plutôt ne se programme pas ! On déplie sa carte routière, celle de toute l’Amérique, le cœur s’emballe ; la décision et même la direction, semble se prendre bien souvent avant d’en trouver la vraie raison. 
+   "page_home_body_p1_write" => "Voyager n’est pas une réaction de révolte du monde mais plus le besoin de respirer! Il semble même qu’un voyage ne se décide pas de suite ou plutôt ne se programme pas ! On déplie sa carte routière, celle de toute l’Amérique, le cœur s’emballe ; la décision et même la direction, semble se prendre bien souvent avant d’en trouver la vraie raison.
    A l’époque, dans les années 80, je débarquais sur la côte ouest des Etats Unis, plein d’ambition. Avant, je menais une vie bien agréable, vivant sur un petit voilier de 25 pieds au port d’Antibes dans le sud de la France. Dès que le mistral se mettait à souffler, balayant fortement les nuages gris et la houle nous venant du golfe de Gêne, nous prenions ma petite amie et moi, la barre vers Saint-Tropez ou les iles d’Hyères. Pour gagner notre vie, nous avions un petit restaurant bien modeste.",
    "page_home_title_p2_write" => "I. Signification spirituelle de Musica Dominus ",
    "page_home_date_p2_write" => "27 Avril 2016",
@@ -174,7 +174,7 @@ return [
 
    // II significado
    "page_detalle_write_significado_title" => "II. Signification spirituelle de ",
-   "page_detalle_write_significado_subtitle" => "Musica Dominus",
+   "page_detalle_write_significado_subtitle" => "Musica Dominus ",
    "page_detalle_write_significado_p1" => "Si j’ai reçu une éducation traditionnelle catholique, j’avoue ne pas vraiment avoir eu de conviction très profonde dans ma jeunesse. Je respectais et suivais cette religion enseignée par ma famille. Ma grand-mère était musicienne, elle m’emmenait aux concours reine Elisabeth à Bruxelles. J’ai été émerveillé par les concerts pour piano de Ludwig von Beethoven interprété par Emil Gilels, les nocturnes et polonaises de Fréderic Chopin interprété par Mauricio Polini et autre de Tchaïkovski, joué avec emphase par ce pianiste russe dont j’ai oublié le nom. Je tâchais de reproduire ces sons extraordinaires sur le piano noir de la maison de maitre de mon grand-père. Je découvrais les accords qui résonnaient grâce aux plafonds hauts de cette demeure en pierre avec ses colonnes de marbre.",
    "page_detalle_write_significado_p2" => "Ce fut ma tante : sœur Colombes bénédictine au Prieuré de Loppem à Bruges qui m’aura le plus aidé à comprendre la spiritualité chrétienne.  Surpris, j’ai découvert son portrait accroché au mur du petit salon du mosteiro el Encontro, le monastère La Rencontre, a Mandirituba, petite ville proche de Curitiba, au sud du Brésil. C’est elle, avec l’aide de cinq autres sœurs qui l’avait fondé. J’assistais aux offices, surtout ceux du matin. Le premier : l’office des lectures commençait à 4 heures 30. Les vitraux sombres à cette heure de la nuit, doucement semblaient se réveiller avec les premières lueurs du jour qui y pénétraient. Je fermais les yeux, enivré par les chants des religieuses sopranos qu’accompagnait l’orgue. La double porte blanche de l’entrée grande ouverte, semblait une invitation aux anges cachés dans le manteau noir de la nuit obscure. Je garde de ces moments, le souvenir d’une grande plénitude provoqué par la sérénité du lieu fermé, que baignait doucement la lumière du soleil levant sur la campagne du Mato Grosso. J’ai pu vivre au Brésil un voyage spirituel dans les monastères bénédictins de Rio de Janeiro et de Salvador do Bahia en accompagnant les moines dans leurs chants grégoriens accompagné par les grandes orgues.",
    "page_detalle_write_significado_p3" => "Cette expérience, je l’avais rencontrée avec mon père lors des visites des cathédrales de Chartres, Orléans ou Amiens, berceau de ma famille, seigneurs de la Lozerie. Je n appréciais rien de plus que me promener avec lui seul, un peu avant l’ouverture au public, écouter le bruit de nos pas qui résonnaient sur les sols glaces de ces nefs immenses, au milieu de ces pierres de taille qui vibraient encore l’histoire de leur passé.",
@@ -301,7 +301,7 @@ return [
    "page_detalle_write_razones_p55" => "Pour faire connaissance avec ce génie exceptionnel, commencez par le Petit livre d’Anna Magdalena, les Petits Préludes et Fugues, et les Inventions. Et, à moins que vous ayez un très bon niveau de piano, vous pouvez écouter la crème : « le clavier bien tempéré » et « les variations Goldberg ».",
 
 
-   // IV musicotherapie      
+   // IV musicotherapie
    "page_detalle_write_musicotherapie_title" => "IV. Musicothérapie et psychologie",
    "page_detalle_write_musicotherapie_p1" => "Ces informations nous ont été fournies par des journaux aux Etats-Unis.",
    "page_detalle_write_musicotherapie_p2" => "Une demi-heure de musique classique par jour : c’est obligatoire pour tous les enfants de Floride, aux Etats-Unis. Surnommée Beethoven’s Babies Bill, la loi 660 n’a pas pour seul objectif d’aider les petits à s’endormir à l’heure de la sieste, elle vise également à stimuler d’une façon harmonieuse leur développement cérébral…",
@@ -314,7 +314,7 @@ return [
    "page_detalle_write_musicotherapie_p9" => "La musicothérapie, elle, consiste en une utilisation judicieuse de la musique comme OUTIL THÉRAPEUTIQUE de base, pour rétablir, maintenir ou améliorer la santé mentale, physique et émotionnelle d’une personne. Par des activités musicales élaborées par un ou une musicothérapeute diplômé (e), selon les besoins du participant, l’enfant ou l’adulte pourra développer un ou des aspects spécifiques. Concentration, communication, langage, motricité, mémoire, habiletés sociales, gestion des émotions, créativité, sont autant d’éléments qui peuvent être améliorés au fil des séances. Celles-ci  sont individuelles ou en petits groupes.",
 
 
-   // V micamino      
+   // V micamino
    "page_detalle_write_micamino_title" => "V. Mon parcours, comme enseignant volontaire, dans les communautés amérindiennes.",
    "page_detalle_write_micamino_p1" => "Dans le nord de l’Amérique, j’ai été fasciné par les Sioux, les Navajos, dans les grandes plaines, les Cheyennes du sud-est, les Apaches au sud-ouest. J’ai pu visiter les réserves, échanger des idées avec beaucoup d’entre eux. Ils y parlent autant de dialectes différents que la population entière amérindienne de Colombie.",
    "page_detalle_write_micamino_p2" => "Contrairement aux voyageurs touristes en avion qui connaissent bien plus les capitales des pays qu’ils visitent, l’aéroport et les hôtels internationaux confortables étant proches ; personnellement, humble voyageur routier, sans horaire, sans contraintes, ne comprenant pas bien l’objectif des voyages organisés, je commençais doucement à me sentir envahis par cette douce sauvagerie primitive. Je me sentais plus proche des autochtones que de la majorité blanche de ces petits pays d’Amérique centrale. Avec eux, j’ai appris à vivre le plus simplement possible, en contact avec la nature et tâchant de goûter à tout, surtout au silence. Je n’aime pas parler de pauvreté ; mais vivre des produits frais de la terre, au rythme des saisons, de ses récoltes bonnes ou mauvaises. La dureté des conditions et des aléas du climat, vous donne l’envie de crier justice !",
@@ -378,7 +378,7 @@ return [
    "page_detalle_write_backhome_bt" => "Retour à l'accueil",
 
 
-   //Contacto 
+   //Contacto
    "page_contacto_title" => "Contact",
    "page_contacto_subtitle" => "Si vous voulez en savoir plus sur mon projet Musica Dominus, N'hésitez pas à me contacter.",
    "page_contacto_label_firstname" => "Nom",

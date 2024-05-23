@@ -79,32 +79,32 @@
                   <span class="sr-only">(current)</span>
               </a>
                 </li>
-              
+
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg " id="op2">
                   <a href="nosotros" class="nav-link" >{{ __('messages.nav_us') }}
-                
+
               </a>
                 </li>
 
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" id="op3">
                   <a href="escrituras" class="nav-link">{{ __('messages.nav_write') }}
-                
+
               </a>
                 </li>
 
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" id="op4">
                   <a href="galerias" class="nav-link">{{ __('messages.nav_gallery') }}
-                
+
               </a>
                 </li>
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" id="op5" >
                   <a href="contacto" class="nav-link">{{ __('messages.nav_contact') }}
-                
+
               </a>
                 </li>
                 <li class="nav-item g-mx-2--md g-mx-5--xl g-mb-5 g-mb-0--lg" style="background: #4caf50;" id="op6">
                   <a href="donacion" class="nav-link" style="color: #fff;">{{ __('messages.nav_don') }}
-                
+
               </a>
                 </li>
               </ul>
@@ -117,10 +117,10 @@
                         <a class="dropdown-item" href="{{ url('locale/en')}}"><img src="assets/img/us.png" width="30px" height="20x">&nbsp; English</a>
                         <a class="dropdown-item" href="{{ url('locale/fr')}}"><img src="assets/img/fr.png" width="30px" height="20x">&nbsp; Français</a>
                         <a class="dropdown-item" href="{{ url('locale/es')}}"><img src="assets/img/es.png" width="30px" height="20x">&nbsp; Español</a>
-                       <!--  <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> Deutsch</a>
-                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x"> Português</a>-->
+                        <a class="dropdown-item" href="{{ url('locale/pt')}}"><img src="assets/img/pt.png" width="30px" height="20x">&nbsp; Português</a>
+                       <!--  <a class="dropdown-item" href="{{ url('locale/de')}}"><img src="assets/img/de.png" width="30px" height="20x"> Deutsch</a>-->
                       </div>
-                    </div> 
+                    </div>
             </div>
             <!-- End Navigation -->
           </div>
@@ -134,7 +134,7 @@
 @yield('contenido');
 
 
-    
+
     <!-- Call to Action -->
     <section class="g-color-white g-pa-30" style="background: #8bc34a;">
   <div class="d-md-flex justify-content-md-center text-center">
@@ -152,13 +152,13 @@
 <footer class="container g-pt-100 g-pb-70">
   <div class="row">
     <div class="col-md-2 text-center text-md-left g-mb-30">
-    
+
 
 
     </div>
 
     <div class="col-md-8 text-center g-mb-30">
-      
+
 
       <!-- Footer - List -->
       <ul class="list-inline mb-5">
@@ -181,7 +181,7 @@
     </div>
 
     <div class="col-md-2 text-center g-mb-30">
-     
+
     </div>
   </div>
 </footer>

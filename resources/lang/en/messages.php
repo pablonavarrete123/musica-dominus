@@ -47,7 +47,7 @@ return [
     "page_home_what_p19" => "I travel and live thanks to the affection and hospitality of the people, their donations and contributions, in cash, by bank account, vegetables and food!",
     "page_home_what_p20" => "Laus tibi, Domine, rex aeternae gloriae.",
     "page_home_what_p21" => "Glory to you, Lord, king of eternal glory.",
- 
+
 
     //body Home gallery
     "page_home_title_gallery" => "Galleries",
@@ -174,7 +174,7 @@ return [
 
     // II significado
     "page_detalle_write_significado_title" => "II. Spiritual meaning of ",
-    "page_detalle_write_significado_subtitle" => "Musica Dominus",
+    "page_detalle_write_significado_subtitle" => "Musica Dominus ",
     "page_detalle_write_significado_p1" => "If I received a traditional Catholic education, I admit that I did not really have a very deep conviction in my youth. I respected and followed this religion taught by my family. My grandmother was a musician, she took me to the Queen Elisabeth competitions in Brussels. I was amazed by the piano concerts of Ludwig von Beethoven interpreted by Emil Gilels, the nocturnes and Polonaises of Frederic Chopin interpreted by Mauricio Polini and another by Tchaikovsky, played with emphasis by this Russian pianist whose name I have forgotten. I tried to reproduce these extraordinary sounds on the black piano of my grandfather's mansion. I discovered the chords that resonated thanks to the high ceilings of this stone house with its marble columns.",
     "page_detalle_write_significado_p2" => "It was my aunt: Benedictine Sister Colombes at the Priory of Loppem in Bruges who helped me the most to understand Christian spirituality. Surprised, I discovered her portrait hanging on the wall of the small living room of the mosteiro el Encontro, the monastery La Rencontre, in Mandirituba, a small town near Curitiba, in the south of Brazil. It was she, with the help of five other sisters, who had founded it. I attended services, especially those in the morning The first: the office of readings began at 4:30 a.m. The dark stained-glass windows at this time of night, slowly seemed to wake up with the first light of day penetrating in. I closed my eyes, intoxicated by the songs of the nuns. sopranos accompanied by the organ. The double white door of the wide open entrance, seemed an invitation to the angels hidden in the black cloak of the dark night. I keep the memory of these moments of great plenitude caused by the serenity of the closed place, that gently bathed in the light of the rising sun over the countryside of Mato Grosso. I was able to live in Brazil a spiritual journey in the Benedictine monasteries of Rio de Janeiro and Salvador do Bahia by accompanying the monks in their Gregorian chants accompanied by the great organs.",
     "page_detalle_write_significado_p3" => "I had encountered this experience with my father during visits to the cathedrals of Chartres, Orléans or Amiens, the cradle of my family, lords of Lozerie. I appreciated nothing more than walking with him alone, a little before the opening to the public, listening to the sound of our footsteps which echoed on the frozen floors of these immense naves, in the middle of these freestones which still vibrated with the history of their past.",
@@ -303,7 +303,7 @@ return [
 
 
 
-    // IV musicotherapie      
+    // IV musicotherapie
     "page_detalle_write_musicotherapie_title" => "IV. Music therapy and psychology ",
     "page_detalle_write_musicotherapie_p1" => "This information was provided to us by newspapers in the United States.",
     "page_detalle_write_musicotherapie_p2" => "Half an hour of classical music a day: it is mandatory for all children in Florida, United States. Nicknamed Beethoven's Babies Bill, Bill 660 does not only aim to help the little ones to fall asleep at nap time, it also aims to stimulate their brain development in a harmonious way...",
@@ -316,7 +316,7 @@ return [
     "page_detalle_write_musicotherapie_p9" => "Music therapy consists of the judicious use of music as a basic THERAPEUTIC TOOL, to restore, maintain or improve the mental, physical and emotional health of a person. Through musical activities developed by a or a qualified music therapist, depending on the participant's needs, the child or adult will be able to develop one or more specific aspects: Concentration, communication, language, motor skills, memory, social skills, emotional management, creativity, are all elements that can be improved over the course of the sessions. These are individual or in small groups.",
 
 
-    // V micamino      
+    // V micamino
     "page_detalle_write_micamino_title" => "V. My journey as a volunteer teacher in Native American communities.",
     "page_detalle_write_micamino_p1" => "In the north of America, I was fascinated by the Sioux, the Navajos, in the great plains, the Cheyenne in the southeast, the Apaches in the southwest. I was able to visit reservations, exchange ideas with many of them. They speak as many different dialects as the entire Amerindian population of Colombia.",
     "page_detalle_write_micamino_p2" => "Unlike tourist travelers by plane who know the capitals of the countries they visit much more, the airport and the comfortable international hotels being close; personally, humble road traveler, without schedule, without constraints, not understanding not quite the objective of the organized trips, I slowly began to feel invaded by this gentle primitive savagery. I felt closer to the natives than to the white majority of these small countries of Central America. With them, I learned to live as simply as possible, in contact with nature and trying to taste everything, especially silence. I don't like to talk about poverty, but to live off the fresh produce of the earth, to the rhythm of the seasons, from its good harvests or bad. The harsh conditions and vagaries of the climate make you want to cry out for justice!",
@@ -380,7 +380,7 @@ return [
     "page_detalle_write_backhome_bt" => "Back to Home",
 
 
-    //Contacto 
+    //Contacto
     "page_contacto_title" => "Contact",
     "page_contacto_subtitle" => "If you want to know more about my project Musica Dominus, do not hesitate to contact me.",
     "page_contacto_label_firstname" => "Name",

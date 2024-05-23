@@ -17,15 +17,15 @@
       <div class="row">
 
         <div class="col-lg-4 g-mb-30">
-          
+
           <img src="assets/img/nosotros2.jpg" class="img-fluid u-shadow-v29" style="border-radius: 3px; -webkit-filter: grayscale(100%);" />
         </div>
 
         <div class="col-lg-8 g-mb-30">
 
           <p style="padding-top: 5px;">{{ __('messages.page_us_body_p0') }}<br><br>
-          
-          <b>{{ __('messages.page_home_what_p2_b') }}</b>{{ __('messages.page_us_body_p1') }}<br><br>
+
+          <b>{{ __('messages.page_detalle_write_significado_subtitle') }}</b>{{ __('messages.page_us_body_p1') }}<br><br>
 
           {{ __('messages.page_us_body_p2') }}<br><br>
 
@@ -37,10 +37,10 @@
 
           {{ __('messages.page_us_body_p6') }}<br>
           {{ __('messages.page_us_body_p7') }}</p>
-    
+
         </div>
 
-        
+
 
       </div>
     </section>
@@ -59,10 +59,10 @@
         </div>
       </div>
       <!-- End Heading -->
-      
+
       <div class="row">
 
-        
+
 
         <div class="col-lg-8 g-mb-10">
 
@@ -75,16 +75,16 @@
            {{ __('messages.page_us_p3_about') }}<br><br>
 
            {{ __('messages.page_us_p4_about') }}
-          
+
           </p>
-    
+
         </div>
 
         <div class="col-lg-4 g-mb-30">
-          
+
           <img src="assets/img/vincent3.jpg" class="img-fluid u-shadow-v29" style="border-radius: 50%; margin-top: 60px; border: 5px solid #fff;" />
         </div>
-        
+
         <div class="col-lg-12 g-mb-30">
 
           <p>
@@ -128,5 +128,5 @@
   window.onload = function(){
     document.getElementById("op2").classList.add('active');
   }
-</script>  
+</script>
 @endsection
