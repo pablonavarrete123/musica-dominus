@@ -18,7 +18,7 @@ return [
 
    //body Home what
    'page_home_title_what' => "¿Qué es Musica Dominus?",
-   "page_home_subtitle_what" => "Traducido: “Música de Dios”",
+   "page_home_subtitle_what" => "Enseñar valores cristianos a través de la música antigua",
    "page_home_what_p1" => "La música es un lenguaje espiritual.",
    "page_home_what_p2" => "Desde los tiempos antiguos, la música ha sido usaba para exaltar lo más alto, para agradecer a Dios o traduciendo del latín: ",
    "page_home_what_p2_i" => "“Deo Gratias” ",

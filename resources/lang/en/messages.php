@@ -19,7 +19,7 @@ return [
 
     //body Home what
     'page_home_title_what' => "What is Musica Dominus?",
-    "page_home_subtitle_what" => "Translated: “Música de Dios”",
+    "page_home_subtitle_what" => "Teach Christian values ​through ancient music",
     "page_home_what_p1" => "Music is a spiritual language.",
     "page_home_what_p2" => "Since ancient times, music has been used to exalt the highest, to thank God or translating from Latin: ",
     "page_home_what_p2_i" => "“Deo Gratias” ",
@@ -52,7 +52,6 @@ return [
     //body Home gallery
     "page_home_title_gallery" => "Galleries",
     "page_home_subtitle_gallery" => "I captured many of the wonderful moments I experienced in this beautiful adventure",
-    "page_home_subtitle_what" => "The study of classical music is the best way, with prayer, to be able to overcome these inconveniences",
     "page_home_more_gallery" => "See more album",
     "page_gallery_caption_p1" => "",
     "page_gallery_caption_p2" => "",

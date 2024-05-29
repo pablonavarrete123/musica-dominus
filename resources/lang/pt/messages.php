@@ -20,7 +20,7 @@ return [
 
    //body Home what
    'page_home_title_what' => "O que é MÚSICA DOMINUS?",
-   "page_home_subtitle_what" => "Traduzido: “Música de Deus”",
+   "page_home_subtitle_what" => "Ensinar valores cristãos através da música antiga",
    "page_home_what_p1" => "A música é uma linguagem espiritual.",
    "page_home_what_p2" => "Desde os tempos antigos ela tem sido usada para exaltar o mais alto, para agradecer a Deus ou, traduzindo do latim: ",
    "page_home_what_p2_i" => "“DEO GRATIAS” ",
@@ -52,7 +52,6 @@ return [
    //body Home gallery
    "page_home_title_gallery"=>"Galerias",
    "page_home_subtitle_gallery"=>"Eu capturei muitos dos momentos maravilhosos que vivi nesta bela aventura",
-   "page_home_subtitle_what"=>"O estudo da música clássica é a melhor forma, com a oração, de superar esses inconvenientes",
    "page_home_more_gallery"=>"Ver mais álbum",
 
    //body home write

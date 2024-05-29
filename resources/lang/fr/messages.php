@@ -21,7 +21,7 @@ return [
 
    //body Home what
    'page_home_title_what' => "Qu'est-ce que Musica Dominus ?",
-   "page_home_subtitle_what" => "Traduit: “Música de Dios”",
+   "page_home_subtitle_what" => "Enseigner les valeurs chrétiennes par le moyen de la musique ancienne",
    "page_home_what_p1" => "La musique est un langage spirituel.",
    "page_home_what_p2" => "Depuis l'Antiquité, la musique est utilisée pour exalter le plus haut, remercier Dieu ou traduire du latin : ",
    "page_home_what_p2_i" => "“Deo Gratias” ",
@@ -53,7 +53,6 @@ return [
    //body Home gallery
    "page_home_title_gallery" => "Galeries",
    "page_home_subtitle_gallery" => "J'ai capturé une grande partie des merveilleux moments que j'ai vécus dans cette belle aventure",
-   "page_home_subtitle_what" => "L'étude de la musique classique est le meilleur moyen, avec la prière, de pouvoir surmonter ces désagréments",
    "page_home_more_gallery" => "Voir plus d'album",
    "page_gallery_caption_p1" => "Comunidad cristiana Adventista doce tribus à la campagne près de General Rodriguez, province de Buenos Aires, Argentine. Où j'étais professeur d'anglais. Puis à Libertador San Martin dans une ville adventiste protestante. J'ai été invité en el campo de los conquistadores, c'était une expérience de professeur d'anglais pendant un mois.",
    "page_gallery_caption_p2" => "Mon expérience au sein de la communauté guarani près de Trinidad, province d'Itapua, Paraguay. Dans les chapitres, c'est dans Mes expériences d'enseignant bénévole. Vous voyez le chef de la tribu, Cristina la professeur de chant, les enfants pieds nus sur le sol, une vie misérable. Ce sont les frères adventistes qui m'ont emmené dans cette communauté en tant que professeur de musique avec le soprano d'Asunción. J'ai été invité à séjourner dans l'ancienne caravane, cette caravane, de l'office du tourisme paraguayen, en tant qu'écrivain journaliste français. Puis comme professeur d'anglais bénévole, à l'école publique de Trinidad.",
